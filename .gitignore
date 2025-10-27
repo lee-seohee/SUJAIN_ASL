@@ -1,0 +1,47 @@
+# 1. 가상환경
+.venv/
+venv/
+ENV/
+env/
+
+# 2. 실험 폴더
+experiments/
+
+# 3. Python 캐시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 4. 대용량 / 중간 결과 파일
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.csv~
+*.tmp
+*.log
+
+# 5. scripts 내부 제외 폴더
+scripts/data_catalog/
+scripts/organization/
+scripts/landmarks/
+
+# 6. IDE 및 시스템 파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 7. 환경 변수 파일
+.env
+*.env
+
+# 8. 압축 및 백업 파일
+*.zip
+*.tar
+*.gz
+*.rar
+*.bak
