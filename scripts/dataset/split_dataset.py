@@ -24,7 +24,7 @@ try:
     labels = df['label']
 
     # 3. 학습용 데이터와 나머지(검증용+테스트용) 데이터로 1차 분할
-    # stratify=labels 옵션은 각 세트마다 단어(라벨)의 비율이 비슷하게 유지되도록 해줍니다. (매우 중요!)
+    # stratify=labels 옵션은 각 세트마다 단어(라벨)의 비율이 비슷하게 유지되도록 해줌 (매우 중요!)
     train_df, temp_df = train_test_split(
         df,
         train_size=TRAIN_SIZE,
