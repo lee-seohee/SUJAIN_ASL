@@ -27,7 +27,9 @@ __pycache__/
 # 5. scripts 내부 제외 폴더
 scripts/data_catalog/
 scripts/organization/
-scripts/landmarks/
+scripts/landmarks/*
+!scripts/landmarks
+!scripts/landmarks/extract_landmarks.py
 
 # 6. IDE 및 시스템 파일
 .DS_Store
