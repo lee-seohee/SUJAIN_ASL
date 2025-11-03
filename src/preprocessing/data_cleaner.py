@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-RAW_DATA_PATH = '../../data/01_raw/train.csv'
-CLEANED_DATA_PATH = '../../data/02_processed/train_cleaned.csv'
+RAW_DATA_PATH = r'C:\Users\john9\Desktop\코딩\code\real\train.csv'
+CLEANED_DATA_PATH = r'C:\Users\john9\Desktop\코딩\code\real\train_cleaned.csv'
 
 class DataCleaner:
     

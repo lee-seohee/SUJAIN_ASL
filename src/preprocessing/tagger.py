@@ -4,9 +4,9 @@ import spacy
 from typing import List
 
 # --- 1. 파일 경로 설정 (상대 경로) ---
-CLEANED_DATA_PATH = '../../data/02_processed/train_cleaned.csv'
-TEXT_OUTPUT_PATH = '../../data/02_processed/text.tok.pos'
-GLOSS_OUTPUT_PATH = '../../data/02_processed/gloss.tok.tagged'
+CLEANED_DATA_PATH = r'C:\Users\john9\Desktop\코딩\code\real\train_cleaned.csv'
+TEXT_OUTPUT_PATH = r'C:\Users\john9\Desktop\코딩\code\real\text.tok.pos'
+GLOSS_OUTPUT_PATH = r'C:\Users\john9\Desktop\코딩\code\real\gloss.tok.tagged'
 
 class Tagger:
     """

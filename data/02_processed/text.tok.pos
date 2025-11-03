@@ -81123,3 +81123,800 @@ What/PRON 's/AUX your/PRON name/NOUN ?/PUNCT
 What/PRON 's/AUX your/PRON name/NOUN ?/PUNCT
 I/PRON eat/VERB an/DET apple/NOUN
 I/PRON eat/VERB an/DET orange/NOUN
+Bad.\n/PROPN
+The/DET movie/NOUN was/AUX bad.\n/NOUN
+I/PRON feel/VERB bad.\n/NOUN
+The/DET food/NOUN tastes/VERB bad.\n/NOUN
+I/PRON had/VERB a/DET bad/ADJ day.\n/NOUN
+That/PRON is/AUX a/DET bad/ADJ idea.\n/NOUN
+The/DET weather/NOUN is/AUX bad/ADJ today.\n/NOUN
+The/DET child/NOUN behaved/VERB badly.\n/NOUN
+I/PRON need/VERB it/PRON badly.\n/NUM
+That/PRON is/AUX bad/ADJ news.\n/NOUN
+Big.\n/PROPN
+The/DET house/NOUN is/AUX big.\n/NOUN
+The/DET dog/NOUN is/AUX big.\n/NOUN
+I/PRON have/VERB a/DET big/ADJ problem.\n/NOUN
+That/PRON is/AUX a/DET big/ADJ car.\n/NOUN
+The/DET tree/NOUN is/AUX big.\n/VERB
+I/PRON want/VERB a/DET big/ADJ hamburger.\n/NOUN
+The/DET store/NOUN is/AUX big.\n/NOUN
+The/DET ocean/NOUN is/AUX big.\n/VERB
+It/PRON 's/AUX a/DET big/ADJ ball.\n/NOUN
+Blue.\n/VERB
+The/DET sky/NOUN is/AUX blue.\n/ADJ
+My/PRON car/NOUN is/AUX blue.\n/ADJ
+I/PRON like/VERB the/DET color/NOUN blue.\n/NOUN
+I/PRON am/AUX wearing/VERB a/DET blue/ADJ shirt.\n/NOUN
+Her/PRON eyes/NOUN are/AUX blue.\n/ADJ
+I/PRON saw/VERB a/DET blue/ADJ bird.\n/NOUN
+The/DET flower/NOUN is/AUX blue.\n/ADJ
+Paint/VERB the/DET wall/NOUN blue.\n/PROPN
+I/PRON feel/VERB blue.\n/ADJ
+Brother.\n/NOUN
+I/PRON have/VERB a/DET brother.\n/NOUN
+My/PRON brother/NOUN is/AUX tall.\n/NOUN
+My/PRON brother/NOUN is/AUX older.\n/NOUN
+My/PRON brother/NOUN lives/VERB in/ADP New/PROPN York.\n/PROPN
+I/PRON love/VERB my/PRON brother.\n/NOUN
+My/PRON brother/NOUN 's/PART name/NOUN is/AUX John.\n/PROPN
+I/PRON am/AUX going/VERB to/ADP the/DET movies/NOUN with/ADP my/PRON brother.\n/NOUN
+My/PRON brother/NOUN helped/VERB me.\n/PROPN
+My/PRON brother/NOUN is/AUX funny.\n/NUM
+But.\n/NOUN
+I/PRON want/VERB to/PART go/VERB ,/PUNCT but/CCONJ I/PRON can't.\n/VERB
+I/PRON like/VERB coffee/NOUN ,/PUNCT but/CCONJ he/PRON likes/VERB tea.\n/NOUN
+It/PRON was/AUX raining/VERB ,/PUNCT but/CCONJ we/PRON went.\n/VERB
+I/PRON studied/VERB hard/ADV ,/PUNCT but/CCONJ I/PRON failed/VERB the/DET test.\n/NOUN
+He/PRON said/VERB sorry/ADJ ,/PUNCT but/CCONJ he/PRON did/AUX n't/PART mean/VERB it.\n/PROPN
+The/DET store/NOUN is/AUX open/ADJ ,/PUNCT but/CCONJ it/PRON will/AUX close/VERB soon.\n/NUM
+It/PRON 's/AUX expensive/ADJ ,/PUNCT but/CCONJ it/PRON 's/AUX good.\n/NOUN
+I/PRON am/AUX tired/ADJ ,/PUNCT but/CCONJ I/PRON must/AUX work.\n/VERB
+I/PRON called/VERB ,/PUNCT but/CCONJ there/PRON was/VERB no/DET answer.\n/NOUN
+Candy.\n/VERB
+I/PRON like/VERB candy.\n/NUM
+I/PRON am/AUX eating/VERB candy.\n/NOUN
+The/DET child/NOUN wants/VERB candy.\n/NUM
+Give/VERB me/PRON candy.\n/NOUN
+Candy/NOUN is/AUX sweet.\n/VERB
+I/PRON like/VERB chocolate/NOUN candy.\n/NOUN
+Too/ADV much/ADJ candy/NOUN is/AUX bad.\n/ADJ
+I/PRON will/AUX buy/VERB candy.\n/NOUN
+The/DET store/NOUN sells/VERB candy.\n/NOUN
+We/PRON got/VERB a/DET lot/NOUN of/ADP Halloween/PROPN candy.\n/NOUN
+Car.\n/VERB
+I/PRON have/VERB a/DET new/ADJ car.\n/NOUN
+The/DET car/NOUN is/AUX red.\n/VERB
+I/PRON drive/VERB a/DET car.\n/NOUN
+The/DET car/NOUN is/AUX fast.\n/ADJ
+I/PRON need/VERB to/PART wash/VERB my/PRON car.\n/NOUN
+I/PRON am/AUX fixing/VERB the/DET car.\n/NOUN
+The/DET car/NOUN stopped.\n/NOUN
+I/PRON want/VERB to/PART buy/VERB a/DET car.\n/NOUN
+There/PRON was/VERB a/DET car/NOUN accident.\n/NOUN
+Where/SCONJ are/AUX my/PRON car/NOUN keys?\n/PROPN
+Clean.\n/NOUN
+The/DET room/NOUN is/AUX clean.\n/NOUN
+Please/INTJ clean/VERB the/DET table.\n/NOUN
+Wash/VERB your/PRON hands/NOUN clean.\n/NOUN
+My/PRON house/NOUN is/AUX clean.\n/NOUN
+My/PRON clothes/NOUN are/AUX clean.\n/NOUN
+I/PRON will/AUX clean/VERB the/DET window.\n/NOUN
+The/DET water/NOUN is/AUX clean.\n/NOUN
+I/PRON cleaned/VERB the/DET dishes.\n/NOUN
+I/PRON feel/VERB clean.\n/NOUN
+Keep/VERB your/PRON room/NOUN clean.\n/NOUN
+Clothes.\n/PROPN
+I/PRON bought/VERB new/ADJ clothes.\n/PROPN
+I/PRON need/VERB to/PART wash/VERB clothes.\n/NOUN
+My/PRON clothes/NOUN are/AUX wet.\n/ADJ
+I/PRON am/AUX folding/VERB clothes.\n/PROPN
+Your/PRON clothes/NOUN are/AUX dirty.\n/ADJ
+Wear/VERB warm/ADJ clothes.\n/NOUN
+I/PRON went/VERB to/ADP the/DET clothes/NOUN store.\n/VERB
+Put/VERB on/ADP your/PRON clothes.\n/NOUN
+I/PRON like/VERB your/PRON clothes.\n/NOUN
+These/DET clothes/NOUN fit/VERB me.\n/PROPN
+Cold.\n/VERB
+The/DET weather/NOUN is/AUX cold.\n/NOUN
+The/DET water/NOUN is/AUX cold.\n/VERB
+I/PRON feel/VERB cold.\n/NOUN
+I/PRON drank/VERB cold/ADJ water.\n/NOUN
+The/DET food/NOUN is/AUX cold.\n/NOUN
+Winter/NOUN is/AUX cold.\n/NOUN
+It/PRON is/AUX a/DET cold/ADJ day.\n/NOUN
+I/PRON caught/VERB a/DET cold.\n/NOUN
+The/DET ice/NOUN is/AUX cold.\n/NOUN
+It/PRON is/AUX cold/ADJ outside.\n/NOUN
+Cook.\n/VERB
+I/PRON will/AUX cook/VERB dinner.\n/NOUN
+My/PRON father/NOUN is/AUX cooking.\n/NOUN
+I/PRON like/VERB to/PART cook.\n/VERB
+I/PRON am/AUX learning/VERB to/PART cook.\n/VERB
+She/PRON cooked/VERB pasta.\n/NOUN
+What/PRON are/AUX you/PRON cooking?\n/NOUN
+He/PRON cooks/VERB food.\n/NOUN
+Let/VERB 's/PRON cook/VERB together.\n/NOUN
+You/PRON are/AUX a/DET good/ADJ cook.\n/NOUN
+I/PRON cooked/VERB soup.\n/NOUN
+Cook/NOUN in/ADP the/DET kitchen.\n/NOUN
+I/PRON am/AUX cooking/VERB in/ADP the/DET kitchen.\n/NOUN
+My/PRON mother/NOUN is/AUX cooking/VERB in/ADP the/DET kitchen.\n/NOUN
+It/PRON smells/VERB good/ADJ in/ADP the/DET kitchen.\n/NOUN
+I/PRON am/AUX cooking/VERB in/ADP the/DET kitchen/NOUN now.\n/NOUN
+My/PRON family/NOUN cooks/VERB in/ADP the/DET kitchen.\n/NOUN
+My/PRON friend/NOUN is/AUX in/ADP the/DET kitchen/NOUN cooking.\n/NOUN
+I/PRON always/ADV cook/VERB in/ADP the/DET kitchen.\n/NOUN
+She/PRON is/AUX cooking/VERB for/ADP the/DET party/NOUN in/ADP the/DET kitchen.\n/NOUN
+I/PRON am/AUX cooking/VERB breakfast/NOUN in/ADP the/DET kitchen.\n/NOUN
+Daughter.\n/NOUN
+I/PRON have/VERB a/DET daughter.\n/NOUN
+My/PRON daughter/NOUN is/AUX smart.\n/NOUN
+My/PRON daughter/NOUN 's/PART name/NOUN is/AUX Anna.\n/PROPN
+I/PRON love/VERB my/PRON daughter.\n/NOUN
+My/PRON daughter/NOUN is/AUX playing.\n/NOUN
+My/PRON daughter/NOUN goes/VERB to/ADP school.\n/NOUN
+My/PRON daughter/NOUN is/AUX 5/NUM years/NOUN old.\n/NOUN
+I/PRON will/AUX visit/VERB my/PRON daughter.\n/NOUN
+My/PRON daughter/NOUN likes/VERB books.\n/NOUN
+My/PRON daughter/NOUN is/AUX sleeping.\n/NOUN
+Day.\n/PROPN
+Have/VERB a/DET good/ADJ day.\n/NOUN
+Today/NOUN is/AUX a/DET nice/ADJ day.\n/NOUN
+The/DET day/NOUN is/AUX hot.\n/NOUN
+I/PRON worked/VERB all/PRON day.\n/ADV
+The/DET day/NOUN was/AUX long.\n/NUM
+Tomorrow/NOUN is/AUX another/DET day.\n/NOUN
+The/DET day/NOUN is/AUX getting/VERB dark.\n/NOUN
+Day/NOUN and/CCONJ night.\n/NOUN
+It/PRON is/AUX a/DET special/ADJ day.\n/NOUN
+It/PRON rained/VERB all/DET day.\n/NOUN
+Door.\n/VERB
+Open/VERB the/DET door.\n/NOUN
+Close/VERB the/DET door.\n/NOUN
+The/DET door/NOUN is/AUX red.\n/VERB
+Someone/PRON is/AUX knocking/VERB on/ADP the/DET door.\n/NOUN
+The/DET door/NOUN is/AUX locked.\n/VERB
+The/DET door/NOUN is/AUX broken.\n/VERB
+Wait/VERB at/ADP the/DET door.\n/NOUN
+I/PRON opened/VERB the/DET car/NOUN door.\n/NOUN
+It/PRON is/AUX a/DET wooden/ADJ door.\n/NOUN
+Please/INTJ close/VERB the/DET door.\n/NOUN
+Drink.\n/NOUN
+Drink/VERB water.\n/NOUN
+I/PRON want/VERB a/DET drink.\n/NOUN
+What/PRON do/AUX you/PRON want/VERB to/ADP drink?\n/PROPN
+I/PRON drink/VERB coffee/NOUN every/DET morning.\n/NOUN
+Drink/NOUN slowly.\n/NOUN
+He/PRON is/AUX drinking/VERB juice.\n/NUM
+I/PRON drank/VERB hot/ADJ tea.\n/NOUN
+The/DET baby/NOUN is/AUX drinking/VERB milk.\n/NUM
+I/PRON do/AUX n't/PART drink/VERB soda.\n/NOUN
+He/PRON drank/VERB too/ADV much.\n/NOUN
+Eat.\n/PROPN
+I/PRON eat/VERB an/DET apple.\n/NOUN
+I/PRON eat/VERB an/DET orange.\n/NOUN
+I/PRON want/VERB to/PART eat.\n/VERB
+It/PRON 's/AUX time/NOUN to/PART eat.\n/VERB
+We/PRON ate/VERB dinner.\n/NOUN
+Eat/VERB your/PRON food.\n/NUM
+What/PRON did/AUX you/PRON eat?\n/VERB
+Do/AUX n't/PART eat/VERB so/ADV fast.\n/ADJ
+I/PRON try/VERB to/PART eat/VERB healthy.\n/NOUN
+I/PRON ate/VERB chocolate.\n/NOUN
+Family.\n/PROPN
+I/PRON love/VERB my/PRON family.\n/NOUN
+I/PRON have/VERB a/DET big/ADJ family.\n/NOUN
+My/PRON family/NOUN eats/VERB together.\n/NOUN
+We/PRON are/AUX on/ADP a/DET family/NOUN trip.\n/NOUN
+My/PRON family/NOUN is/AUX happy.\n/NOUN
+I/PRON will/AUX visit/VERB my/PRON family.\n/NOUN
+Family/NOUN is/AUX important.\n/NUM
+My/PRON family/NOUN lives/VERB here.\n/NOUN
+I/PRON miss/VERB my/PRON family.\n/NOUN
+My/PRON family/NOUN supports/VERB me.\n/PROPN
+Father.\n/VERB
+My/PRON father.\n/NOUN
+My/PRON father/NOUN is/AUX tall.\n/NOUN
+My/PRON father/NOUN is/AUX working.\n/NOUN
+I/PRON love/VERB my/PRON father.\n/NOUN
+My/PRON father/NOUN is/AUX smart.\n/NOUN
+My/PRON father/NOUN helped/VERB me.\n/PROPN
+My/PRON father/NOUN is/AUX old.\n/ADJ
+I/PRON talked/VERB with/ADP my/PRON father.\n/NOUN
+My/PRON father/NOUN is/AUX reading/VERB a/DET book.\n/NOUN
+Feel.\n/NOUN
+I/PRON feel/VERB good.\n/NOUN
+I/PRON feel/VERB sick.\n/NOUN
+I/PRON feel/VERB tired.\n/PROPN
+I/PRON feel/VERB happy.\n/NOUN
+I/PRON feel/VERB sad.\n/NOUN
+How/SCONJ do/AUX you/PRON feel?\n/VERB
+I/PRON feel/VERB hot.\n/ADJ
+It/PRON feels/VERB strange.\n/NOUN
+Fine.\n/VERB
+I/PRON feel/VERB fine.\n/NUM
+I/PRON am/AUX fine.\n/NUM
+That/PRON is/AUX fine.\n/NUM
+Fine/ADJ ,/PUNCT thank/VERB you.\n/NOUN
+The/DET weather/NOUN is/AUX fine.\n/NUM
+Everything/PRON will/AUX be/AUX fine.\n/NUM
+That/PRON is/AUX fine/ADJ work.\n/NOUN
+You/PRON look/VERB fine.\n/NUM
+The/DET book/NOUN is/AUX fine.\n/NUM
+The/DET test/NOUN was/AUX fine.\n/NUM
+Finish.\n/PROPN
+I/PRON finished/VERB work.\n/NOUN
+Finish/VERB your/PRON homework.\n/NOUN
+I/PRON finished/VERB eating.\n/NUM
+I/PRON finished/VERB the/DET book.\n/NUM
+It/PRON will/AUX finish/VERB soon.\n/NUM
+We/PRON finished/VERB the/DET project.\n/NOUN
+When/SCONJ will/AUX it/PRON finish?\n/VERB
+I/PRON am/AUX almost/ADV finished.\n/NOUN
+I/PRON finished/VERB cleaning.\n/NOUN
+The/DET movie/NOUN finished.\n/NOUN
+Friend.\n/PROPN
+My/PRON friend.\n/NOUN
+I/PRON have/VERB a/DET friend.\n/NOUN
+You/PRON are/AUX a/DET good/ADJ friend.\n/NOUN
+I/PRON will/AUX meet/VERB my/PRON friend.\n/NOUN
+My/PRON friend/NOUN helped/VERB me.\n/PROPN
+I/PRON visited/VERB my/PRON friend.\n/NOUN
+My/PRON friend/NOUN lives/VERB near.\n/NOUN
+I/PRON talked/VERB with/ADP my/PRON friend.\n/NOUN
+My/PRON friend/NOUN is/AUX funny.\n/NUM
+I/PRON trust/VERB my/PRON friend.\n/NOUN
+Full.\n/PROPN
+I/PRON am/AUX full.\n/NUM
+My/PRON stomach/NOUN is/AUX full.\n/NUM
+The/DET bottle/NOUN is/AUX full.\n/NUM
+The/DET moon/NOUN is/AUX full.\n/NUM
+The/DET room/NOUN is/AUX full/ADJ of/ADP people.\n/NOUN
+The/DET car/NOUN is/AUX full/ADJ of/ADP gas.\n/NOUN
+The/DET box/NOUN is/AUX full.\n/NUM
+My/PRON bag/NOUN is/AUX full.\n/NUM
+The/DET bus/NOUN is/AUX full.\n/NUM
+The/DET glass/NOUN is/AUX full/ADJ of/ADP water.\n/NOUN
+Future.\n/NOUN
+The/DET future.\n/NOUN
+The/DET future/NOUN is/AUX bright.\n/NOUN
+I/PRON am/AUX planning/VERB for/ADP the/DET future.\n/NOUN
+The/DET future/NOUN is/AUX tomorrow.\n/ADJ
+What/PRON are/AUX your/PRON future/NOUN plans?\n/PROPN
+What/PRON is/AUX your/PRON future/ADJ job?\n/NOUN
+She/PRON is/AUX my/PRON future/ADJ wife.\n/NOUN
+I/PRON think/VERB about/ADP the/DET future.\n/NOUN
+The/DET future/NOUN is/AUX important.\n/NUM
+No/DET one/NOUN knows/VERB the/DET future.\n/NOUN
+Give.\n/PROPN
+Give/VERB me.\n/PROPN
+Give/VERB me/PRON the/DET book.\n/NOUN
+I/PRON gave/VERB him/PRON money.\n/NOUN
+I/PRON gave/VERB her/PRON a/DET gift.\n/NOUN
+He/PRON gave/VERB food/NOUN to/ADP me.\n/PROPN
+Please/INTJ give/VERB me/PRON water.\n/NOUN
+Give/VERB me/PRON help.\n/NOUN
+Give/VERB me/PRON time.\n/NOUN
+Give/VERB me/PRON your/PRON hand.\n/NOUN
+She/PRON gave/VERB me/PRON a/DET hug.\n/NOUN
+Go.\n/PROPN
+I/PRON go.\n/PROPN
+I/PRON go/VERB to/ADP school.\n/NOUN
+Let/VERB 's/PRON go/VERB home.\n/NOUN
+I/PRON need/VERB to/PART go/VERB to/ADP the/DET store.\n/NOUN
+I/PRON am/AUX going/VERB to/PART work.\n/VERB
+We/PRON went/VERB to/ADP the/DET movies.\n/NOUN
+I/PRON must/AUX go/VERB now.\n/ADJ
+Where/SCONJ are/AUX you/PRON going?\n/NOUN
+Go/VERB away.\n/NOUN
+Go/VERB with/ADP me.\n/PROPN
+Good.\n/NOUN
+The/DET food/NOUN is/AUX good.\n/NOUN
+Good/PROPN morning.\n/NOUN
+Good/PROPN job.\n/PROPN
+The/DET book/NOUN is/AUX good.\n/NOUN
+That/PRON is/AUX a/DET good/ADJ idea.\n/NOUN
+You/PRON are/AUX a/DET good/ADJ friend.\n/NOUN
+The/DET weather/NOUN is/AUX good.\n/NOUN
+Green.\n/VERB
+The/DET grass/NOUN is/AUX green.\n/NOUN
+He/PRON has/VERB a/DET green/ADJ car.\n/NOUN
+I/PRON like/VERB green.\n/NOUN
+I/PRON ate/VERB a/DET green/ADJ apple.\n/NOUN
+The/DET trees/NOUN are/AUX green.\n/ADJ
+The/DET light/NOUN is/AUX green.\n/NOUN
+She/PRON is/AUX wearing/VERB green.\n/NOUN
+I/PRON have/VERB a/DET green/ADJ shirt.\n/NOUN
+Paint/AUX it/PRON green.\n/VERB
+Have.\n/VERB
+I/PRON have.\n/VERB
+I/PRON have/VERB a/DET car.\n/NOUN
+I/PRON have/VERB a/DET dog.\n/NOUN
+I/PRON have/VERB a/DET book.\n/NOUN
+I/PRON have/VERB a/DET sister.\n/NOUN
+I/PRON have/VERB a/DET question.\n/NOUN
+I/PRON have/VERB a/DET cold.\n/NOUN
+I/PRON have/VERB time.\n/NOUN
+I/PRON have/VERB money.\n/NOUN
+I/PRON have/VERB an/DET idea.\n/NOUN
+Hello.\n/NOUN
+Hello/INTJ ,/PUNCT how/SCONJ are/AUX you?\n/VERB
+Hello/INTJ ,/PUNCT my/PRON friend.\n/NOUN
+Hello/INTJ ,/PUNCT my/PRON name/NOUN is/AUX Sujain.\n/NOUN
+Hello/INTJ ,/PUNCT it/PRON is/AUX nice/ADJ to/PART meet/VERB you.\n/NOUN
+Say/VERB hello.\n/NOUN
+Hello/INTJ ,/PUNCT father.\n/NOUN
+Hello/INTJ ,/PUNCT mother.\n/NOUN
+The/DET teacher/NOUN said/VERB hello.\n/NOUN
+Hello/INTJ ,/PUNCT good/ADJ morning.\n/NOUN
+Help.\n/VERB
+Help/VERB me.\n/PROPN
+I/PRON need/VERB help.\n/NOUN
+Can/AUX you/PRON help/VERB me?\n/NOUN
+I/PRON will/AUX help/VERB you.\n/NOUN
+Thanks/NOUN for/ADP your/PRON help.\n/NOUN
+I/PRON helped/VERB my/PRON friend.\n/NOUN
+Help/VERB me/PRON clean.\n/VERB
+Ask/VERB for/ADP help.\n/NOUN
+He/PRON helped/VERB me/PRON with/ADP my/PRON homework.\n/NOUN
+She/PRON helped/VERB me/PRON cook.\n/VERB
+Home.\n/ADJ
+Go/VERB home.\n/NOUN
+I/PRON am/AUX staying/VERB home.\n/NUM
+Home/NOUN sweet/ADJ home.\n/NOUN
+I/PRON am/AUX at/ADP home.\n/NUM
+I/PRON work/VERB at/ADP home.\n/NUM
+I/PRON left/VERB home.\n/NOUN
+I/PRON miss/VERB home.\n/NOUN
+Come/VERB home.\n/NOUN
+My/PRON home/NOUN is/AUX big.\n/VERB
+I/PRON cleaned/VERB my/PRON home.\n/NOUN
+Hot.\n/VERB
+The/DET weather/NOUN is/AUX hot.\n/NOUN
+The/DET water/NOUN is/AUX hot.\n/NOUN
+The/DET food/NOUN is/AUX hot.\n/ADJ
+The/DET coffee/NOUN is/AUX hot.\n/ADJ
+The/DET sun/NOUN is/AUX hot.\n/NOUN
+Summer/NOUN is/AUX hot.\n/ADJ
+It/PRON is/AUX too/ADV hot.\n/ADJ
+It/PRON is/AUX a/DET hot/ADJ day.\n/NOUN
+The/DET beach/NOUN was/AUX hot.\n/NOUN
+House.\n/PROPN
+My/PRON house.\n/NOUN
+The/DET house/NOUN is/AUX red.\n/VERB
+I/PRON cleaned/VERB the/DET house.\n/PROPN
+I/PRON want/VERB to/PART buy/VERB a/DET house.\n/NOUN
+We/PRON have/VERB a/DET new/ADJ house.\n/NOUN
+I/PRON went/VERB to/ADP my/PRON friend/NOUN 's/PART house.\n/PROPN
+Stay/VERB in/ADP the/DET house.\n/NOUN
+The/DET house/NOUN has/VERB 3/NUM rooms.\n/NOUN
+My/PRON house/NOUN is/AUX near/ADP the/DET school.\n/NOUN
+How.\n/VERB
+How/SCONJ are/AUX you?\n/VERB
+How?\n/NOUN
+How/SCONJ old/ADJ are/AUX you?\n/VERB
+How/SCONJ much?\n/NOUN
+How/SCONJ many?\n/ADJ
+How/SCONJ do/AUX you/PRON do/VERB that?\n/PROPN
+How/SCONJ does/AUX it/PRON work?\n/VERB
+How/SCONJ do/AUX you/PRON know?\n/PROPN
+How/SCONJ do/AUX you/PRON feel?\n/VERB
+How/SCONJ do/AUX you/PRON spell/VERB that?\n/PROPN
+Kitchen.\n/VERB
+I/PRON am/AUX in/ADP the/DET kitchen.\n/NOUN
+I/PRON am/AUX cooking/VERB in/ADP the/DET kitchen.\n/NOUN
+Clean/ADJ the/DET kitchen.\n/NOUN
+The/DET kitchen/NOUN is/AUX big.\n/NOUN
+We/PRON eat/VERB in/ADP the/DET kitchen.\n/NOUN
+The/DET food/NOUN is/AUX in/ADP the/DET kitchen.\n/NOUN
+The/DET kitchen/NOUN smells/VERB good.\n/NOUN
+My/PRON mother/NOUN is/AUX in/ADP the/DET kitchen.\n/NOUN
+The/DET kitchen/NOUN is/AUX dirty.\n/ADJ
+We/PRON have/VERB a/DET new/ADJ kitchen.\n/NOUN
+Know.\n/VERB
+I/PRON know.\n/VERB
+I/PRON do/AUX n't/PART know.\n/VERB
+Do/AUX you/PRON know?\n/PROPN
+I/PRON know/VERB the/DET answer.\n/NOUN
+I/PRON know/VERB him.\n/NOUN
+I/PRON know/VERB ASL.\n/PROPN
+I/PRON know/VERB it/PRON is/AUX true.\n/NOUN
+I/PRON know/VERB what/PRON you/PRON mean.\n/VERB
+I/PRON do/AUX n't/PART know/VERB what/PRON to/PART say.\n/VERB
+Like.\n/ADJ
+I/PRON like.\n/VERB
+I/PRON like/VERB you.\n/NOUN
+I/PRON like/VERB coffee.\n/NOUN
+I/PRON do/AUX n't/PART like.\n/VERB
+I/PRON do/AUX n't/PART like/VERB fish.\n/NOUN
+Do/AUX you/PRON like/ADP it?\n/PROPN
+I/PRON like/VERB to/PART read.\n/VERB
+I/PRON like/VERB blue.\n/NOUN
+I/PRON like/VERB dogs.\n/NOUN
+I/PRON like/VERB that/DET movie.\n/NOUN
+Make.\n/ADJ
+Make/VERB food.\n/NUM
+Make/VERB coffee.\n/NOUN
+I/PRON made/VERB a/DET mistake.\n/NOUN
+Make/VERB your/PRON bed.\n/NOUN
+You/PRON make/VERB me/PRON happy.\n/NOUN
+That/PRON makes/VERB me/PRON sad.\n/NOUN
+I/PRON need/VERB to/PART make/VERB money.\n/NOUN
+Let/VERB 's/PRON make/VERB a/DET plan.\n/NOUN
+You/PRON can/AUX make/VERB it.\n/PROPN
+I/PRON made/VERB a/DET new/ADJ friend.\n/NOUN
+Man.\n/PROPN
+The/DET man/NOUN is/AUX tall.\n/NOUN
+The/DET man/NOUN is/AUX strong.\n/NOUN
+The/DET man/NOUN is/AUX old.\n/ADJ
+The/DET man/NOUN is/AUX working.\n/NOUN
+The/DET man/NOUN is/AUX reading/VERB a/DET book.\n/NOUN
+The/DET man/NOUN is/AUX running.\n/NOUN
+I/PRON know/VERB that/SCONJ man.\n/NOUN
+The/DET man/NOUN is/AUX nice.\n/NUM
+The/DET man/NOUN is/AUX driving/VERB a/DET car.\n/NOUN
+The/DET man/NOUN is/AUX talking.\n/NUM
+Meet.\n/NOUN
+I/PRON will/AUX meet/VERB a/DET friend.\n/NOUN
+Nice/ADJ to/PART meet/VERB you.\n/NOUN
+Let/VERB 's/PRON meet/VERB tomorrow.\n/NOUN
+When/SCONJ can/AUX we/PRON meet?\n/VERB
+Where/SCONJ should/AUX we/PRON meet?\n/VERB
+I/PRON met/VERB his/PRON family.\n/NUM
+I/PRON like/VERB to/PART meet/VERB new/ADJ people.\n/NOUN
+Meet/VERB me/PRON at/ADP 3.\n/NUM
+Meet/VERB at/ADP the/DET restaurant.\n/NOUN
+This/PRON is/AUX the/DET first/ADJ time/NOUN we/PRON meet.\n/VERB
+Mother.\n/NOUN
+My/PRON mother.\n/NOUN
+My/PRON mother/NOUN is/AUX nice.\n/NUM
+I/PRON love/VERB my/PRON mother.\n/NOUN
+My/PRON mother/NOUN is/AUX cooking.\n/NOUN
+My/PRON mother/NOUN helped/VERB me.\n/PROPN
+My/PRON mother/NOUN is/AUX working.\n/NOUN
+My/PRON mother/NOUN is/AUX smart.\n/NOUN
+My/PRON mother/NOUN visited/VERB me.\n/PROPN
+I/PRON talked/VERB with/ADP my/PRON mother.\n/NOUN
+My/PRON mother/NOUN is/AUX happy.\n/NUM
+Name.\n/PROPN
+What/PRON is/AUX your/PRON name?\n/NOUN
+My/PRON name/NOUN is/AUX Sujain.\n/NOUN
+What/PRON is/AUX his/PRON name?\n/NOUN
+My/PRON dog/NOUN 's/PART name/NOUN is/AUX Max.\n/NOUN
+That/PRON is/AUX a/DET nice/ADJ name.\n/ADJ
+I/PRON forgot/VERB your/PRON name.\n/NOUN
+I/PRON remember/VERB your/PRON name.\n/ADJ
+How/SCONJ do/AUX you/PRON spell/VERB your/PRON name?\n/NOUN
+What/PRON is/AUX the/DET book/NOUN 's/PART name?\n/NOUN
+Tell/VERB me/PRON your/PRON name.\n/NOUN
+Nice.\n/NOUN
+It/PRON is/AUX a/DET nice/ADJ day.\n/NOUN
+That/PRON is/AUX a/DET nice/ADJ car.\n/NOUN
+You/PRON have/VERB a/DET nice/ADJ house.\n/NUM
+He/PRON is/AUX a/DET nice/ADJ friend.\n/NOUN
+Those/PRON are/AUX nice/ADJ clothes.\n/NOUN
+The/DET food/NOUN was/AUX nice.\n/NUM
+Be/AUX nice.\n/NOUN
+She/PRON is/AUX a/DET nice/ADJ person.\n/NOUN
+Now.\n/NOUN
+Do/VERB it/PRON now.\n/ADJ
+I/PRON have/VERB to/PART go/VERB now.\n/ADJ
+Now/ADV I/PRON understand.\n/VERB
+What/DET time/NOUN is/AUX it/PRON now?\n/ADJ
+I/PRON am/AUX tired/ADJ now.\n/PROPN
+Start/VERB now.\n/NOUN
+It/PRON is/AUX raining/VERB now.\n/ADJ
+It/PRON is/AUX late/ADJ now.\n/PROPN
+Now/ADV or/CCONJ later?\n/PROPN
+Past.\n/NOUN
+In/ADP the/DET past.\n/NOUN
+In/ADP the/DET past/NOUN ,/PUNCT I/PRON lived/VERB there.\n/ADJ
+The/DET past/NOUN is/AUX finished.\n/NOUN
+Forget/VERB the/DET past.\n/NOUN
+Learn/VERB from/ADP the/DET past.\n/NOUN
+For/ADP the/DET past/ADJ 3/NUM years.\n/NOUN
+This/DET past/ADJ week.\n/NOUN
+This/DET past/ADJ night.\n/NOUN
+He/PRON walked/VERB past/ADP me.\n/PROPN
+It/PRON is/AUX past/ADJ due.\n/NOUN
+Play.\n/VERB
+The/DET children/NOUN are/AUX playing.\n/ADJ
+Let/VERB 's/PRON play/VERB a/DET game.\n/NOUN
+Go/VERB play/VERB outside.\n/NOUN
+I/PRON play/VERB with/ADP my/PRON dog.\n/NOUN
+She/PRON plays/VERB the/DET piano.\n/NOUN
+He/PRON plays/VERB football.\n/NOUN
+I/PRON like/VERB to/PART play.\n/VERB
+We/PRON played/VERB together.\n/NOUN
+We/PRON went/VERB to/ADP the/DET playground.\n/NOUN
+Work/VERB hard/ADV ,/PUNCT play/VERB hard.\n/NOUN
+Run.\n/VERB
+I/PRON am/AUX running.\n/NOUN
+The/DET dog/NOUN is/AUX running.\n/NOUN
+He/PRON runs/VERB fast.\n/ADJ
+Run/VERB slow.\n/NOUN
+I/PRON like/VERB to/PART run.\n/VERB
+I/PRON run/VERB every/DET morning.\n/NOUN
+The/DET bus/NOUN is/AUX running.\n/NOUN
+He/PRON ran/VERB away.\n/NOUN
+I/PRON ran/VERB a/DET race.\n/NOUN
+The/DET water/NOUN is/AUX running.\n/NOUN
+School.\n/VERB
+I/PRON go/VERB to/ADP school.\n/NOUN
+The/DET children/NOUN are/AUX at/ADP school.\n/NOUN
+School/NOUN is/AUX finished.\n/NUM
+School/NOUN starts/VERB at/ADP 8.\n/NUM
+I/PRON like/VERB school.\n/NOUN
+The/DET school/NOUN is/AUX big.\n/VERB
+It/PRON is/AUX a/DET new/ADJ school.\n/NOUN
+I/PRON work/VERB at/ADP a/DET school.\n/NOUN
+I/PRON take/VERB the/DET school/NOUN bus.\n/NOUN
+I/PRON am/AUX in/ADP high/ADJ school.\n/NOUN
+Short.\n/VERB
+My/PRON brother/NOUN is/AUX short.\n/NOUN
+Her/PRON hair/NOUN is/AUX short.\n/ADJ
+Time/NOUN is/AUX short.\n/NOUN
+The/DET movie/NOUN was/AUX short.\n/NOUN
+The/DET book/NOUN is/AUX short.\n/NOUN
+It/PRON is/AUX a/DET short/ADJ story.\n/NOUN
+He/PRON is/AUX a/DET short/ADJ man.\n/NOUN
+We/PRON took/VERB a/DET short/ADJ walk.\n/NOUN
+I/PRON have/VERB a/DET short/ADJ time.\n/NOUN
+Life/NOUN is/AUX short.\n/NOUN
+Sister.\n/NOUN
+My/PRON sister/NOUN is/AUX older.\n/NOUN
+My/PRON sister/NOUN is/AUX younger.\n/ADJ
+I/PRON love/VERB my/PRON sister.\n/NOUN
+My/PRON sister/NOUN 's/PART name/NOUN is/AUX Mary.\n/PROPN
+My/PRON sister/NOUN lives/VERB far/ADV away.\n/NOUN
+I/PRON will/AUX visit/VERB my/PRON sister.\n/NOUN
+My/PRON sister/NOUN is/AUX funny.\n/NUM
+My/PRON sister/NOUN helped/VERB me.\n/PROPN
+My/PRON sister/NOUN is/AUX tall.\n/NOUN
+Sit.\n/PROPN
+Please/INTJ sit.\n/VERB
+Sit/VERB down.\n/NOUN
+Sit/VERB here.\n/NOUN
+Sit/VERB on/ADP the/DET chair.\n/NOUN
+The/DET dog/NOUN is/AUX sitting.\n/NOUN
+Sit/VERB still.\n/NOUN
+Sit/VERB with/ADP me.\n/PROPN
+I/PRON will/AUX sit/VERB there.\n/ADJ
+Sit/VERB and/CCONJ wait.\n/NOUN
+Sleep.\n/VERB
+I/PRON am/AUX sleeping.\n/ADJ
+I/PRON want/VERB to/PART sleep.\n/NOUN
+I/PRON need/VERB to/PART sleep.\n/VERB
+The/DET cat/NOUN is/AUX sleeping.\n/ADJ
+Go/VERB to/ADP sleep.\n/NOUN
+I/PRON slept/VERB for/ADP a/DET long/ADJ time.\n/NOUN
+Sleep/NOUN well.\n/NOUN
+It/PRON is/AUX time/NOUN to/ADP sleep.\n/NOUN
+I/PRON sleep/VERB in/ADP my/PRON bed.\n/NOUN
+The/DET baby/NOUN is/AUX sleeping.\n/ADJ
+Son.\n/NOUN
+I/PRON have/VERB a/DET son.\n/NOUN
+My/PRON son/NOUN 's/PART name/NOUN is/AUX Tom.\n/ADJ
+I/PRON love/VERB my/PRON son.\n/NOUN
+My/PRON son/NOUN is/AUX 3/NUM years/NOUN old.\n/NOUN
+My/PRON son/NOUN is/AUX playing.\n/NOUN
+My/PRON son/NOUN goes/VERB to/ADP school.\n/NOUN
+My/PRON son/NOUN is/AUX tall.\n/NOUN
+My/PRON son/NOUN is/AUX smart.\n/NOUN
+My/PRON son/NOUN is/AUX sleeping.\n/NOUN
+I/PRON will/AUX visit/VERB my/PRON son.\n/NOUN
+Study.\n/NOUN
+I/PRON am/AUX studying.\n/NOUN
+Study/NOUN hard.\n/VERB
+I/PRON need/VERB to/PART study.\n/VERB
+I/PRON am/AUX studying/VERB for/ADP a/DET test.\n/NOUN
+I/PRON study/VERB ASL.\n/NOUN
+He/PRON studies/VERB English.\n/NOUN
+I/PRON study/VERB at/ADP home.\n/NUM
+She/PRON studies/VERB in/ADP the/DET library.\n/NOUN
+What/PRON are/AUX you/PRON studying?\n/PROPN
+Let/VERB 's/PRON study/VERB together.\n/NOUN
+Table.\n/PROPN
+The/DET book/NOUN is/AUX on/ADP the/DET table.\n/NOUN
+Clean/ADJ the/DET table.\n/NOUN
+Sit/VERB at/ADP the/DET table.\n/NOUN
+The/DET table/NOUN is/AUX big.\n/VERB
+It/PRON is/AUX a/DET wood/NOUN table.\n/NOUN
+The/DET food/NOUN is/AUX on/ADP the/DET table.\n/NOUN
+Put/VERB it/PRON on/ADP the/DET table.\n/NOUN
+The/DET table/NOUN is/AUX broken.\n/ADJ
+I/PRON need/VERB to/PART buy/VERB a/DET table.\n/NOUN
+Tall.\n/VERB
+The/DET tree/NOUN is/AUX tall.\n/NOUN
+The/DET building/NOUN is/AUX tall.\n/NOUN
+The/DET woman/NOUN is/AUX tall.\n/NOUN
+He/PRON is/AUX a/DET tall/ADJ person.\n/NOUN
+I/PRON am/AUX not/PART tall.\n/VERB
+How/SCONJ tall/ADJ are/AUX you?\n/VERB
+The/DET grass/NOUN is/AUX tall.\n/NOUN
+He/PRON is/AUX a/DET tall/ADJ boy.\n/NOUN
+Thank/VERB you.\n/NOUN
+Thank/VERB you/PRON for/ADP your/PRON help.\n/NOUN
+Thank/VERB you/PRON ,/PUNCT my/PRON friend.\n/NOUN
+Say/VERB thank/VERB you.\n/NOUN
+Thank/VERB you/PRON ,/PUNCT father.\n/NOUN
+Thank/VERB you/PRON ,/PUNCT mother.\n/NOUN
+Thank/VERB you/PRON very/ADV much.\n/NOUN
+Thank/VERB you/PRON for/ADP coming.\n/NOUN
+That/PRON is/AUX very/ADV nice/ADJ ,/PUNCT thank/VERB you.\n/NOUN
+That/PRON 's/AUX good/ADJ ,/PUNCT thank/VERB you.\n/NOUN
+Time.\n/VERB
+What/DET time/NOUN is/AUX it?\n/NOUN
+It/PRON 's/AUX time/NOUN to/PART go.\n/VERB
+I/PRON have/VERB time.\n/NOUN
+I/PRON have/VERB no/DET time.\n/NOUN
+Time/NOUN flies.\n/ADJ
+It/PRON 's/AUX been/AUX a/DET long/ADJ time.\n/NOUN
+I/PRON need/VERB more/ADJ time.\n/NOUN
+Do/AUX n't/PART waste/VERB time.\n/NOUN
+I/PRON spend/VERB time/NOUN with/ADP family.\n/NUM
+Tomorrow.\n/PROPN
+See/VERB you/PRON tomorrow.\n/NUM
+I/PRON work/VERB tomorrow.\n/NOUN
+It/PRON will/AUX rain/VERB tomorrow.\n/ADJ
+Tomorrow/NOUN will/AUX be/AUX sunny.\n/ADJ
+Let/VERB 's/PRON meet/VERB tomorrow.\n/NOUN
+I/PRON have/VERB a/DET test/NOUN tomorrow.\n/NOUN
+What/PRON is/AUX the/DET plan/NOUN for/ADP tomorrow?\n/NOUN
+Tomorrow/NOUN is/AUX my/PRON day/NOUN off.\n/VERB
+I/PRON am/AUX busy/ADJ tomorrow.\n/NUM
+Walk.\n/ADJ
+I/PRON am/AUX walking.\n/ADJ
+Walk/VERB slow.\n/NOUN
+Walk/PROPN fast.\n/NOUN
+I/PRON walk/VERB my/PRON dog.\n/NOUN
+I/PRON walk/VERB to/ADP school.\n/NOUN
+I/PRON walked/VERB home.\n/NUM
+Let/VERB 's/PRON walk/VERB in/ADP the/DET park.\n/NOUN
+Walk/VERB with/ADP me.\n/PROPN
+It/PRON was/AUX a/DET long/ADJ walk.\n/NOUN
+I/PRON like/VERB to/PART walk/VERB outside.\n/NOUN
+Want.\n/VERB
+I/PRON want.\n/VERB
+I/PRON want/VERB water.\n/NOUN
+I/PRON want/VERB food.\n/NUM
+I/PRON want/VERB to/PART go.\n/VERB
+I/PRON do/AUX n't/PART want.\n/VERB
+I/PRON do/AUX n't/PART want/VERB to/PART go.\n/VERB
+What/PRON do/AUX you/PRON want?\n/VERB
+I/PRON want/VERB a/DET new/ADJ car.\n/NOUN
+I/PRON want/VERB help.\n/NOUN
+Water.\n/NOUN
+I/PRON need/VERB water.\n/NOUN
+I/PRON have/VERB a/DET bottle/NOUN of/ADP water.\n/NOUN
+The/DET ocean/NOUN water/NOUN is/AUX salty.\n/NOUN
+We/PRON collected/VERB rain/NOUN water.\n/NOUN
+I/PRON swim/VERB in/ADP the/DET water.\n/NOUN
+Weekend.\n/VERB
+Have/VERB a/DET nice/ADJ weekend.\n/NOUN
+Last/ADJ weekend.\n/NOUN
+Next/ADJ weekend.\n/NOUN
+What/PRON are/AUX your/PRON plans/NOUN for/ADP the/DET weekend?\n/NOUN
+The/DET weekend/NOUN is/AUX finished.\n/NUM
+I/PRON like/VERB the/DET weekend.\n/NOUN
+The/DET weekend/NOUN was/AUX fun.\n/ADJ
+I/PRON have/VERB to/PART work/VERB on/ADP the/DET weekend.\n/NOUN
+We/PRON went/VERB on/ADP a/DET weekend/NOUN trip.\n/NOUN
+What.\n/VERB
+What?\n/PROPN
+What/PRON is/AUX that?\n/PROPN
+What/PRON are/AUX you/PRON doing?\n/PROPN
+What/PRON happened?\n/PROPN
+What/PRON did/AUX he/PRON say?\n/VERB
+What/PRON is/AUX wrong?\n/NOUN
+Where.\n/NOUN
+Where?\n/PROPN
+Where/SCONJ do/VERB you/PRON live?\n/PROPN
+Where/SCONJ are/AUX you/PRON going?\n/NOUN
+Where/SCONJ are/AUX you/PRON from?\n/PROPN
+Where/SCONJ is/AUX the/DET bathroom?\n/PROPN
+Where/SCONJ are/AUX my/PRON keys?\n/PROPN
+Where/SCONJ do/AUX you/PRON work?\n/NOUN
+Where/SCONJ is/AUX the/DET school?\n/PROPN
+Where/SCONJ does/AUX it/PRON hurt?\n/VERB
+Who.\n/VERB
+Who?\n/X
+Who/PRON are/AUX you?\n/VERB
+Who/PRON is/AUX that/SCONJ man?\n/NOUN
+Who/PRON is/AUX that/PRON woman?\n/NOUN
+Who/PRON is/AUX your/PRON friend?\n/NOUN
+Who/PRON knows?\n/NOUN
+Who/PRON called?\n/NOUN
+Who/PRON can/AUX help?\n/VERB
+Who/PRON ate/VERB my/PRON food?\n/NOUN
+Who/PRON won?\n/NOUN
+Why.\n/VERB
+Why?\n/X
+Why/SCONJ are/AUX you/PRON sad?\n/NOUN
+Why/SCONJ are/AUX you/PRON late?\n/PROPN
+Why/SCONJ are/AUX you/PRON going?\n/NOUN
+Why/SCONJ me?\n/NOUN
+Why/SCONJ not?\n/ADJ
+Tell/VERB me/PRON why.\n/NOUN
+Why/SCONJ did/AUX you/PRON do/VERB that?\n/PROPN
+With.\n/VERB
+With/ADP me.\n/PROPN
+I/PRON will/AUX go/VERB with/ADP you.\n/NOUN
+Come/VERB with/ADP me.\n/PROPN
+I/PRON am/AUX with/ADP my/PRON friend.\n/NOUN
+I/PRON am/AUX with/ADP my/PRON family.\n/NUM
+Talk/VERB with/ADP him.\n/NOUN
+Eat/VERB with/ADP us.\n/PROPN
+Coffee/NOUN with/ADP milk.\n/NUM
+I/PRON work/VERB with/ADP her.\n/NOUN
+I/PRON agree/VERB with/ADP you.\n/NOUN
+Woman.\n/PROPN
+The/DET woman/NOUN is/AUX smart.\n/NOUN
+The/DET woman/NOUN is/AUX nice.\n/NUM
+The/DET woman/NOUN is/AUX working.\n/NOUN
+The/DET woman/NOUN is/AUX reading/VERB a/DET book.\n/NOUN
+I/PRON know/VERB that/SCONJ woman.\n/NOUN
+The/DET woman/NOUN is/AUX running.\n/NOUN
+The/DET woman/NOUN is/AUX old.\n/ADJ
+The/DET woman/NOUN is/AUX driving/VERB a/DET car.\n/NOUN
+The/DET woman/NOUN is/AUX talking.\n/NUM
+Work.\n/VERB
+I/PRON am/AUX working.\n/NOUN
+I/PRON am/AUX going/VERB to/PART work.\n/VERB
+Work/NOUN hard.\n/VERB
+I/PRON like/VERB my/PRON job.\n/NOUN
+I/PRON have/VERB to/PART work/VERB late.\n/NOUN
+I/PRON start/VERB work/NOUN at/ADP 9.\n/NUM
+We/PRON work/VERB together.\n/NOUN
+Wrong.\n/ADJ
+You/PRON are/AUX wrong.\n/ADJ
+I/PRON am/AUX wrong.\n/ADJ
+That/PRON is/AUX wrong.\n/ADJ
+That/PRON is/AUX the/DET wrong/ADJ answer.\n/NOUN
+You/PRON have/VERB the/DET wrong/ADJ number.\n/NOUN
+You/PRON are/AUX going/VERB the/DET wrong/ADJ way.\n/NOUN
+Something/PRON is/AUX wrong.\n/ADJ
+It/PRON feels/VERB wrong.\n/ADJ
+What/PRON could/AUX go/VERB wrong?\n/PROPN
+Year.\n/PROPN
+One/NUM year.\n/NOUN
+Next/ADJ year.\n/NOUN
+Last/ADJ year.\n/NOUN
+How/SCONJ old/ADJ are/AUX you?\n/VERB
+Happy/PROPN New/PROPN Year.\n/PROPN
+The/DET year/NOUN is/AUX finished.\n/NOUN
+The/DET year/NOUN was/AUX long.\n/NUM
+The/DET school/NOUN year/NOUN started.\n/NOUN
+It/PRON is/AUX the/DET year/NOUN 2025.\n/NUM
+Yellow.\n/VERB
+The/DET sun/NOUN is/AUX yellow.\n/ADJ
+The/DET car/NOUN is/AUX yellow.\n/ADJ
+The/DET flower/NOUN is/AUX yellow.\n/ADJ
+I/PRON like/VERB yellow.\n/PROPN
+He/PRON is/AUX wearing/VERB a/DET yellow/ADJ shirt.\n/NOUN
+The/DET banana/NOUN is/AUX yellow.\n/ADJ
+Paint/VERB it/PRON yellow.\n/VERB
+They/PRON live/VERB in/ADP the/DET yellow/ADJ house.\n/NOUN
+I/PRON have/VERB a/DET yellow/ADJ book.\n/NOUN
+The/DET light/NOUN is/AUX yellow.\n/ADJ
+Yes.\n/PROPN
+Yes/INTJ ,/PUNCT I/PRON can.\n/VERB
+Yes/INTJ ,/PUNCT I/PRON do.\n/VERB
+Yes/INTJ ,/PUNCT I/PRON know.\n/VERB
+Yes/INTJ ,/PUNCT please.\n/NOUN
+Yes/INTJ ,/PUNCT that/PRON is/AUX true.\n/NOUN
+She/PRON said/VERB yes.\n/NOUN
+Yes/INTJ or/CCONJ no?\n/NOUN
+Yes/INTJ ,/PUNCT that/PRON is/AUX good.\n/NOUN
+Yes/INTJ ,/PUNCT I/PRON agree.\n/VERB
+Yesterday.\n/PROPN
+I/PRON worked/VERB yesterday.\n/PROPN
+It/PRON rained/VERB yesterday.\n/PROPN
+It/PRON was/AUX hot/ADJ yesterday.\n/NOUN
+I/PRON was/AUX tired/ADJ yesterday.\n/PROPN
+I/PRON met/VERB my/PRON friend/NOUN yesterday.\n/PROPN
+I/PRON went/VERB to/ADP the/DET movies/NOUN yesterday.\n/PROPN
+What/PRON did/AUX you/PRON do/VERB yesterday?\n/PROPN
+Yesterday/NOUN was/AUX Sunday.\n/ADJ
+We/PRON talked/VERB yesterday.\n/PROPN
