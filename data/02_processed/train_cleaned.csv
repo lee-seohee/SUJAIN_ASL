@@ -81124,3 +81124,800 @@ NAME YOU WHAT(wh),What's your name?
 NAME YOU WHAT(wh),What's your name ?
 EAT APPLE,I eat an apple
 EAT ORANGE,I eat an orange
+BAD\n,Bad.\n
+MOVIE BAD\n,The movie was bad.\n
+IX-1P FEEL BAD\n,I feel bad.\n
+FOOD TASTE BAD\n,The food tastes bad.\n
+IX-1P HAVE BAD DAY\n,I had a bad day.\n
+THAT BAD IDEA\n,That is a bad idea.\n
+WEATHER BAD TODAY\n,The weather is bad today.\n
+CHILD BEHAVE BAD\n,The child behaved badly.\n
+IX-1P NEED BAD\n,I need it badly.\n
+BAD NEWS\n,That is bad news.\n
+BIG\n,Big.\n
+HOUSE BIG\n,The house is big.\n
+DOG BIG\n,The dog is big.\n
+IX-1P HAVE BIG PROBLEM\n,I have a big problem.\n
+BIG CAR\n,That is a big car.\n
+TREE BIG\n,The tree is big.\n
+WANT BIG HAMBURGER\n,I want a big hamburger.\n
+STORE BIG\n,The store is big.\n
+OCEAN BIG\n,The ocean is big.\n
+BIG-BALL\n,It's a big ball.\n
+BLUE\n,Blue.\n
+SKY BLUE\n,The sky is blue.\n
+CAR BLUE\n,My car is blue.\n
+IX-1P LIKE BLUE COLOR\n,I like the color blue.\n
+IX-1P WEAR BLUE SHIRT\n,I am wearing a blue shirt.\n
+EYE BLUE\n,Her eyes are blue.\n
+BLUE BIRD\n,I saw a blue bird.\n
+BLUE FLOWER\n,The flower is blue.\n
+PAINT WALL BLUE\n,Paint the wall blue.\n
+FEEL BLUE\n,I feel blue.\n
+BROTHER\n,Brother.\n
+IX-1P HAVE BROTHER\n,I have a brother.\n
+MY BROTHER TALL\n,My brother is tall.\n
+MY BROTHER OLDER\n,My brother is older.\n
+MY BROTHER LIVE NEW-YORK\n,My brother lives in New York.\n
+IX-1P LOVE MY BROTHER\n,I love my brother.\n
+MY BROTHER NAME(spell) J-O-H-N\n,My brother's name is John.\n
+IX-1P GO MOVIE WITH BROTHER\n,I am going to the movies with my brother.\n
+BROTHER HELP ME\n,My brother helped me.\n
+BROTHER FUNNY\n,My brother is funny.\n
+BUT\n,But.\n
+IX-1P WANT GO BUT CAN'T\n,"I want to go, but I can't.\n"
+IX-1P LIKE COFFEE BUT IX-3P LIKE TEA\n,"I like coffee, but he likes tea.\n"
+RAIN BUT WE GO\n,"It was raining, but we went.\n"
+IX-1P STUDY HARD BUT FAIL TEST\n,"I studied hard, but I failed the test.\n"
+SAY SORRY BUT MEAN NOT\n,"He said sorry, but he didn't mean it.\n"
+STORE OPEN BUT CLOSE SOON\n,"The store is open, but it will close soon.\n"
+EXPENSIVE BUT GOOD\n,"It's expensive, but it's good.\n"
+TIRED BUT MUST WORK\n,"I am tired, but I must work.\n"
+IX-1P CALL BUT NO ANSWER\n,"I called, but there was no answer.\n"
+CANDY\n,Candy.\n
+IX-1P LIKE CANDY\n,I like candy.\n
+EAT CANDY\n,I am eating candy.\n
+CHILD WANT CANDY\n,The child wants candy.\n
+GIVE ME CANDY\n,Give me candy.\n
+CANDY SWEET\n,Candy is sweet.\n
+CHOCOLATE CANDY\n,I like chocolate candy.\n
+TOO-MUCH CANDY BAD\n,Too much candy is bad.\n
+BUY CANDY\n,I will buy candy.\n
+STORE SELL CANDY\n,The store sells candy.\n
+HALLOWEEN CANDY\n,We got a lot of Halloween candy.\n
+CAR\n,Car.\n
+IX-1P HAVE NEW CAR\n,I have a new car.\n
+CAR RED\n,The car is red.\n
+DRIVE CAR\n,I drive a car.\n
+CAR FAST\n,The car is fast.\n
+WASH CAR\n,I need to wash my car.\n
+FIX CAR\n,I am fixing the car.\n
+CAR STOP\n,The car stopped.\n
+BUY CAR\n,I want to buy a car.\n
+CAR ACCIDENT\n,There was a car accident.\n
+CAR KEY\n,Where are my car keys?\n
+CLEAN\n,Clean.\n
+ROOM CLEAN\n,The room is clean.\n
+CLEAN TABLE\n,Please clean the table.\n
+WASH CLEAN\n,Wash your hands clean.\n
+HOUSE CLEAN\n,My house is clean.\n
+CLOTHES CLEAN\n,My clothes are clean.\n
+CLEAN WINDOW\n,I will clean the window.\n
+WATER CLEAN\n,The water is clean.\n
+CLEAN DISHES\n,I cleaned the dishes.\n
+IX-1P FEEL CLEAN\n,I feel clean.\n
+KEEP ROOM CLEAN\n,Keep your room clean.\n
+CLOTHES\n,Clothes.\n
+NEW CLOTHES\n,I bought new clothes.\n
+WASH CLOTHES\n,I need to wash clothes.\n
+CLOTHES WET\n,My clothes are wet.\n
+FOLD CLOTHES\n,I am folding clothes.\n
+CLOTHES DIRTY\n,Your clothes are dirty.\n
+WEAR WARM CLOTHES\n,Wear warm clothes.\n
+CLOTHES STORE\n,I went to the clothes store.\n
+PUT-ON CLOTHES\n,Put on your clothes.\n
+IX-1P LIKE YOUR CLOTHES\n,I like your clothes.\n
+CLOTHES FIT\n,These clothes fit me.\n
+COLD\n,Cold.\n
+WEATHER COLD\n,The weather is cold.\n
+WATER COLD\n,The water is cold.\n
+IX-1P FEEL COLD\n,I feel cold.\n
+DRINK COLD WATER\n,I drank cold water.\n
+FOOD COLD\n,The food is cold.\n
+WINTER COLD\n,Winter is cold.\n
+COLD DAY\n,It is a cold day.\n
+IX-1P CATCH COLD\n,I caught a cold.\n
+ICE COLD\n,The ice is cold.\n
+OUTSIDE COLD\n,It is cold outside.\n
+COOK\n,Cook.\n
+IX-1P COOK DINNER\n,I will cook dinner.\n
+MY FATHER COOK\n,My father is cooking.\n
+IX-1P LIKE COOK\n,I like to cook.\n
+LEARN COOK\n,I am learning to cook.\n
+COOK PASTA\n,She cooked pasta.\n
+WHAT COOK(wh)\n,What are you cooking?\n
+COOK FOOD\n,He cooks food.\n
+COOK TOGETHER\n,Let's cook together.\n
+GOOD COOK\n,You are a good cook.\n
+COOK SOUP\n,I cooked soup.\n
+COOK_KITCHEN\n,Cook in the kitchen.\n
+IX-1P COOK_KITCHEN\n,I am cooking in the kitchen.\n
+MOTHER COOK_KITCHEN\n,My mother is cooking in the kitchen.\n
+SMELL GOOD COOK_KITCHEN\n,It smells good in the kitchen.\n
+COOK_KITCHEN NOW\n,I am cooking in the kitchen now.\n
+FAMILY COOK_KITCHEN\n,My family cooks in the kitchen.\n
+FRIEND COOK_KITCHEN\n,My friend is in the kitchen cooking.\n
+ALWAYS COOK_KITCHEN\n,I always cook in the kitchen.\n
+COOK_KITCHEN FOR PARTY\n,She is cooking for the party in the kitchen.\n
+COOK_KITCHEN BREAKFAST\n,I am cooking breakfast in the kitchen.\n
+DAUGHTTER\n,Daughter.\n
+IX-1P HAVE DAUGHTER\n,I have a daughter.\n
+MY DAUGHTER SMART\n,My daughter is smart.\n
+MY DAUGHTER NAME(spell) A-N-N-A\n,My daughter's name is Anna.\n
+IX-1P LOVE MY DAUGHTER\n,I love my daughter.\n
+DAUGHTER PLAY\n,My daughter is playing.\n
+DAUGHTER GO SCHOOL\n,My daughter goes to school.\n
+DAUGHTER 5 YEAR-OLD\n,My daughter is 5 years old.\n
+IX-1P VISIT MY DAUGHTER\n,I will visit my daughter.\n
+DAUGHTER LIKE BOOK\n,My daughter likes books.\n
+MY DAUGHTER SLEEP\n,My daughter is sleeping.\n
+DAY\n,Day.\n
+HAVE GOOD DAY\n,Have a good day.\n
+TODAY NICE DAY\n,Today is a nice day.\n
+DAY HOT\n,The day is hot.\n
+WORK ALL DAY\n,I worked all day.\n
+DAY LONG\n,The day was long.\n
+TOMORROW ANOTHER DAY\n,Tomorrow is another day.\n
+DAY DARK\n,The day is getting dark.\n
+DAY-NIGHT\n,Day and night.\n
+SPECIAL DAY\n,It is a special day.\n
+RAIN ALL DAY\n,It rained all day.\n
+DOOR\n,Door.\n
+OPEN DOOR\n,Open the door.\n
+CLOSE DOOR\n,Close the door.\n
+DOOR RED\n,The door is red.\n
+KNOCK DOOR\n,Someone is knocking on the door.\n
+DOOR LOCK\n,The door is locked.\n
+DOOR BROKE\n,The door is broken.\n
+WAIT AT DOOR\n,Wait at the door.\n
+CAR DOOR\n,I opened the car door.\n
+WOOD DOOR\n,It is a wooden door.\n
+PLEASE CLOSE DOOR\n,Please close the door.\n
+DRINK\n,Drink.\n
+DRINK WATER\n,Drink water.\n
+IX-1P WANT DRINK\n,I want a drink.\n
+WHAT DRINK(wh)\n,What do you want to drink?\n
+DRINK COFFEE\n,I drink coffee every morning.\n
+DRINK SLOW\n,Drink slowly.\n
+DRINK JUICE\n,He is drinking juice.\n
+DRINK HOT TEA\n,I drank hot tea.\n
+DRINK MILK\n,The baby is drinking milk.\n
+DRINK SODA\n,I don't drink soda.\n
+DRINK TOO-MUCH\n,He drank too much.\n
+EAT\n,Eat.\n
+EAT APPLE\n,I eat an apple.\n
+EAT ORANGE\n,I eat an orange.\n
+IX-1P WANT EAT\n,I want to eat.\n
+TIME EAT\n,It's time to eat.\n
+EAT DINNER\n,We ate dinner.\n
+EAT FOOD\n,Eat your food.\n
+WHAT EAT(wh)\n,What did you eat?\n
+EAT FAST\n,Don't eat so fast.\n
+EAT HEALTHY\n,I try to eat healthy.\n
+EAT CHOCOLATE\n,I ate chocolate.\n
+FAMILY\n,Family.\n
+IX-1P LOVE MY FAMILY\n,I love my family.\n
+FAMILY BIG\n,I have a big family.\n
+FAMILY EAT TOGETHER\n,My family eats together.\n
+FAMILY TRIP\n,We are on a family trip.\n
+FAMILY HAPPY\n,My family is happy.\n
+VISIT FAMILY\n,I will visit my family.\n
+FAMILY IMPORTANT\n,Family is important.\n
+FAMILY LIVE HERE\n,My family lives here.\n
+IX-1P MISS MY FAMILY\n,I miss my family.\n
+FAMILY SUPPORT ME\n,My family supports me.\n
+FATHER\n,Father.\n
+MY FATHER\n,My father.\n
+MY FATHER TALL\n,My father is tall.\n
+MY FATHER WORK\n,My father is working.\n
+IX-1P LOVE MY FATHER\n,I love my father.\n
+MY FATHER SMART\n,My father is smart.\n
+MY FATHER HELP ME\n,My father helped me.\n
+MY FATHER OLD\n,My father is old.\n
+IX-1P TALK WITH FATHER\n,I talked with my father.\n
+FATHER READ BOOK\n,My father is reading a book.\n
+FEEL\n,Feel.\n
+IX-1P FEEL GOOD\n,I feel good.\n
+IX-1P FEEL SICK\n,I feel sick.\n
+IX-1P FEEL TIRED\n,I feel tired.\n
+IX-1P FEEL HAPPY\n,I feel happy.\n
+IX-1P FEEL SAD\n,I feel sad.\n
+HOW YOU FEEL(wh)\n,How do you feel?\n
+IX-1P FEEL HOT\n,I feel hot.\n
+FEEL STRANGE\n,It feels strange.\n
+FINE\n,Fine.\n
+IX-1P FEEL FINE\n,I feel fine.\n
+IX-1P FINE\n,I am fine.\n
+THAT FINE\n,That is fine.\n
+FINE THANK-YOU\n,"Fine, thank you.\n"
+WEATHER FINE\n,The weather is fine.\n
+EVERYTHING FINE\n,Everything will be fine.\n
+FINE WORK\n,That is fine work.\n
+YOU LOOK FINE\n,You look fine.\n
+BOOK FINE\n,The book is fine.\n
+TEST FINE\n,The test was fine.\n
+FINISH\n,Finish.\n
+FINISH WORK\n,I finished work.\n
+FINISH HOMEWORK\n,Finish your homework.\n
+FINISH EAT\n,I finished eating.\n
+FINISH BOOK\n,I finished the book.\n
+FINISH SOON\n,It will finish soon.\n
+FINISH PROJECT\n,We finished the project.\n
+WHEN FINISH(wh)\n,When will it finish?\n
+ALMOST FINISH\n,I am almost finished.\n
+FINISH CLEAN\n,I finished cleaning.\n
+FINISH MOVIE\n,The movie finished.\n
+FRIEND\n,Friend.\n
+MY FRIEND\n,My friend.\n
+IX-1P HAVE FRIEND\n,I have a friend.\n
+GOOD FRIEND\n,You are a good friend.\n
+MEET FRIEND\n,I will meet my friend.\n
+FRIEND HELP ME\n,My friend helped me.\n
+VISIT FRIEND\n,I visited my friend.\n
+FRIEND LIVE NEAR\n,My friend lives near.\n
+TALK WITH FRIEND\n,I talked with my friend.\n
+FRIEND FUNNY\n,My friend is funny.\n
+IX-1P TRUST MY FRIEND\n,I trust my friend.\n
+FULL\n,Full.\n
+IX-1P FULL\n,I am full.\n
+STOMACH FULL\n,My stomach is full.\n
+BOTTLE FULL\n,The bottle is full.\n
+MOON FULL\n,The moon is full.\n
+ROOM FULL PEOPLE\n,The room is full of people.\n
+GAS FULL\n,The car is full of gas.\n
+BOX FULL\n,The box is full.\n
+BAG FULL\n,My bag is full.\n
+BUS FULL\n,The bus is full.\n
+GLASS FULL WATER\n,The glass is full of water.\n
+FUTURE\n,Future.\n
+FUTURE\n,The future.\n
+FUTURE BRIGHT\n,The future is bright.\n
+PLAN FOR FUTURE\n,I am planning for the future.\n
+FUTURE TOMORROW\n,The future is tomorrow.\n
+WHAT FUTURE PLAN(wh)\n,What are your future plans?\n
+FUTURE JOB\n,What is your future job?\n
+FUTURE WIFE\n,She is my future wife.\n
+THINK ABOUT FUTURE\n,I think about the future.\n
+FUTURE IMPORTANT\n,The future is important.\n
+NO-ONE KNOW FUTURE\n,No one knows the future.\n
+GIVE\n,Give.\n
+GIVE ME\n,Give me.\n
+GIVE ME BOOK\n,Give me the book.\n
+GIVE MONEY\n,I gave him money.\n
+GIVE GIFT\n,I gave her a gift.\n
+GIVE FOOD\n,He gave food to me.\n
+PLEASE GIVE WATER\n,Please give me water.\n
+GIVE HELP\n,Give me help.\n
+GIVE ME TIME\n,Give me time.\n
+GIVE ME YOUR HAND\n,Give me your hand.\n
+GIVE HUG\n,She gave me a hug.\n
+GO\n,Go.\n
+IX-1P GO\n,I go.\n
+IX-1P GO SCHOOL\n,I go to school.\n
+GO HOME\n,Let's go home.\n
+GO STORE\n,I need to go to the store.\n
+GO WORK\n,I am going to work.\n
+GO MOVIE\n,We went to the movies.\n
+GO NOW\n,I must go now.\n
+WHERE GO(wh)\n,Where are you going?\n
+GO-AWAY\n,Go away.\n
+GO WITH ME\n,Go with me.\n
+GOOD\n,Good.\n
+FOOD GOOD\n,The food is good.\n
+GOOD MORNING\n,Good morning.\n
+GOOD JOB\n,Good job.\n
+BOOK GOOD\n,The book is good.\n
+GOOD IDEA\n,That is a good idea.\n
+YOU GOOD FRIEND\n,You are a good friend.\n
+WEATHER GOOD\n,The weather is good.\n
+GREEN\n,Green.\n
+GRASS GREEN\n,The grass is green.\n
+CAR GREEN\n,He has a green car.\n
+IX-1P LIKE GREEN\n,I like green.\n
+GREEN APPLE\n,I ate a green apple.\n
+TREE GREEN\n,The trees are green.\n
+GREEN LIGHT\n,The light is green.\n
+WEAR GREEN\n,She is wearing green.\n
+GREEN SHIRT\n,I have a green shirt.\n
+PAINT GREEN\n,Paint it green.\n
+HAVE\n,Have.\n
+IX-1P HAVE\n,I have.\n
+IX-1P HAVE CAR\n,I have a car.\n
+IX-1P HAVE DOG\n,I have a dog.\n
+IX-1P HAVE BOOK\n,I have a book.\n
+IX-1P HAVE SISTER\n,I have a sister.\n
+IX-1P HAVE QUESTION\n,I have a question.\n
+IX-1P HAVE COLD\n,I have a cold.\n
+IX-1P HAVE TIME\n,I have time.\n
+IX-1P HAVE MONEY\n,I have money.\n
+IX-1P HAVE IDEA\n,I have an idea.\n
+HELLO\n,Hello.\n
+HELLO HOW YOU\n,"Hello, how are you?\n"
+HELLO MY FRIEND\n,"Hello, my friend.\n"
+HELLO NAME(spell) S-U-J-A-I-N\n,"Hello, my name is Sujain.\n"
+HELLO NICE MEET YOU\n,"Hello, it is nice to meet you.\n"
+SAY HELLO\n,Say hello.\n
+HELLO FATHER\n,"Hello, father.\n"
+HELLO MOTHER\n,"Hello, mother.\n"
+TEACHER SAY HELLO\n,The teacher said hello.\n
+HELLO GOOD MORNING\n,"Hello, good morning.\n"
+HELP\n,Help.\n
+HELP ME\n,Help me.\n
+IX-1P NEED HELP\n,I need help.\n
+CAN YOU HELP ME(wh)\n,Can you help me?\n
+IX-1P HELP YOU\n,I will help you.\n
+THANKS FOR HELP\n,Thanks for your help.\n
+HELP FRIEND\n,I helped my friend.\n
+HELP CLEAN\n,Help me clean.\n
+ASK-FOR HELP\n,Ask for help.\n
+HELP HOMEWORK\n,He helped me with my homework.\n
+HELP COOK\n,She helped me cook.\n
+HOME\n,Home.\n
+GO HOME\n,Go home.\n
+IX-1P STAY HOME\n,I am staying home.\n
+HOME SWEET HOME\n,Home sweet home.\n
+AT HOME\n,I am at home.\n
+WORK AT HOME\n,I work at home.\n
+LEAVE HOME\n,I left home.\n
+MISS HOME\n,I miss home.\n
+COME HOME\n,Come home.\n
+MY HOME BIG\n,My home is big.\n
+CLEAN HOME\n,I cleaned my home.\n
+HOT\n,Hot.\n
+WEATHER HOT\n,The weather is hot.\n
+WATER HOT\n,The water is hot.\n
+FOOD HOT\n,The food is hot.\n
+COFFEE HOT\n,The coffee is hot.\n
+SUN HOT\n,The sun is hot.\n
+SUMMER HOT\n,Summer is hot.\n
+TOO HOT\n,It is too hot.\n
+HOT DAY\n,It is a hot day.\n
+BEACH HOT\n,The beach was hot.\n
+HOUSE\n,House.\n
+MY HOUSE\n,My house.\n
+HOUSE RED\n,The house is red.\n
+CLEAN HOUSE\n,I cleaned the house.\n
+BUY HOUSE\n,I want to buy a house.\n
+NEW HOUSE\n,We have a new house.\n
+GO-TO FRIEND HOUSE\n,I went to my friend's house.\n
+STAY IN HOUSE\n,Stay in the house.\n
+HOUSE HAVE 3 ROOM\n,The house has 3 rooms.\n
+HOUSE NEAR SCHOOL\n,My house is near the school.\n
+HOW\n,How.\n
+HOW YOU(wh)\n,How are you?\n
+HOW(wh)\n,How?\n
+HOW OLD YOU(wh)\n,How old are you?\n
+HOW MUCH(wh)\n,How much?\n
+HOW MANY(wh)\n,How many?\n
+HOW DO(wh)\n,How do you do that?\n
+HOW WORK(wh)\n,How does it work?\n
+HOW KNOW(wh)\n,How do you know?\n
+HOW FEEL(wh)\n,How do you feel?\n
+HOW SPELL(wh)\n,How do you spell that?\n
+KITCHEN\n,Kitchen.\n
+IN KITCHEN\n,I am in the kitchen.\n
+COOK_KITCHEN\n,I am cooking in the kitchen.\n
+CLEAN KITCHEN\n,Clean the kitchen.\n
+KITCHEN BIG\n,The kitchen is big.\n
+EAT IN KITCHEN\n,We eat in the kitchen.\n
+FOOD IN KITCHEN\n,The food is in the kitchen.\n
+KITCHEN SMELL GOOD\n,The kitchen smells good.\n
+MOTHER IN KITCHEN\n,My mother is in the kitchen.\n
+KITCHEN DIRTY\n,The kitchen is dirty.\n
+NEW KITCHEN\n,We have a new kitchen.\n
+KNOW\n,Know.\n
+IX-1P KNOW\n,I know.\n
+IX-1P KNOW-NOT\n,I don't know.\n
+YOU KNOW(wh)\n,Do you know?\n
+IX-1P KNOW ANSWER\n,I know the answer.\n
+IX-1P KNOW HIM\n,I know him.\n
+IX-1P KNOW ASL\n,I know ASL.\n
+IX-1P KNOW TRUE\n,I know it is true.\n
+IX-1P KNOW WHAT YOU MEAN\n,I know what you mean.\n
+IX-1P KNOW-NOT WHAT SAY\n,I don't know what to say.\n
+LIKE\n,Like.\n
+IX-1P LIKE\n,I like.\n
+IX-1P LIKE YOU\n,I like you.\n
+IX-1P LIKE COFFEE\n,I like coffee.\n
+IX-1P LIKE-NOT\n,I don't like.\n
+IX-1P LIKE-NOT FISH\n,I don't like fish.\n
+YOU LIKE(wh)\n,Do you like it?\n
+IX-1P LIKE READ\n,I like to read.\n
+IX-1P LIKE BLUE\n,I like blue.\n
+IX-1P LIKE DOG\n,I like dogs.\n
+IX-1P LIKE MOVIE\n,I like that movie.\n
+MAKE\n,Make.\n
+MAKE FOOD\n,Make food.\n
+MAKE COFFEE\n,Make coffee.\n
+MAKE MISTAKE\n,I made a mistake.\n
+MAKE BED\n,Make your bed.\n
+MAKE HAPPY\n,You make me happy.\n
+MAKE SAD\n,That makes me sad.\n
+MAKE MONEY\n,I need to make money.\n
+MAKE PLAN\n,Let's make a plan.\n
+MAKE IT\n,You can make it.\n
+MAKE FRIEND\n,I made a new friend.\n
+MAN\n,Man.\n
+MAN TALL\n,The man is tall.\n
+MAN STRONG\n,The man is strong.\n
+MAN OLD\n,The man is old.\n
+MAN WORK\n,The man is working.\n
+MAN READ BOOK\n,The man is reading a book.\n
+MAN RUN\n,The man is running.\n
+IX-1P KNOW THAT MAN\n,I know that man.\n
+MAN NICE\n,The man is nice.\n
+MAN DRIVE CAR\n,The man is driving a car.\n
+MAN TALK\n,The man is talking.\n
+MEET\n,Meet.\n
+MEET FRIEND\n,I will meet a friend.\n
+NICE MEET YOU\n,Nice to meet you.\n
+MEET TOMORROW\n,Let's meet tomorrow.\n
+WHEN MEET(wh)\n,When can we meet?\n
+WHERE MEET(wh)\n,Where should we meet?\n
+MEET FAMILY\n,I met his family.\n
+MEET NEW PEOPLE\n,I like to meet new people.\n
+MEET AT 3\n,Meet me at 3.\n
+MEET AT RESTAURANT\n,Meet at the restaurant.\n
+FIRST-TIME MEET\n,This is the first time we meet.\n
+MOTHER\n,Mother.\n
+MY MOTHER\n,My mother.\n
+MY MOTHER NICE\n,My mother is nice.\n
+IX-1P LOVE MY MOTHER\n,I love my mother.\n
+MY MOTHER COOK\n,My mother is cooking.\n
+MY MOTHER HELP ME\n,My mother helped me.\n
+MY MOTHER WORK\n,My mother is working.\n
+MY MOTHER SMART\n,My mother is smart.\n
+MY MOTHER VISIT ME\n,My mother visited me.\n
+TALK WITH MOTHER\n,I talked with my mother.\n
+MOTHER HAPPY\n,My mother is happy.\n
+NAME\n,Name.\n
+NAME YOU WHAT(wh)\n,What is your name?\n
+MY NAME(spell) S-U-J-A-I-N\n,My name is Sujain.\n
+WHAT IX-3P NAME(wh)\n,What is his name?\n
+MY DOG NAME(spell) M-A-X\n,My dog's name is Max.\n
+NICE NAME\n,That is a nice name.\n
+FORGET NAME\n,I forgot your name.\n
+REMEMBER NAME\n,I remember your name.\n
+HOW SPELL NAME(wh)\n,How do you spell your name?\n
+BOOK NAME\n,What is the book's name?\n
+TELL ME YOUR NAME\n,Tell me your name.\n
+NICE\n,Nice.\n
+NICE DAY\n,It is a nice day.\n
+NICE CAR\n,That is a nice car.\n
+NICE HOUSE\n,You have a nice house.\n
+NICE FRIEND\n,He is a nice friend.\n
+NICE CLOTHES\n,Those are nice clothes.\n
+NICE FOOD\n,The food was nice.\n
+BE NICE\n,Be nice.\n
+NICE PERSON\n,She is a nice person.\n
+NOW\n,Now.\n
+DO IT NOW\n,Do it now.\n
+GO NOW\n,I have to go now.\n
+NOW IX-1P UNDERSTAND\n,Now I understand.\n
+NOW TIME WHAT(wh)\n,What time is it now?\n
+NOW IX-1P TIRED\n,I am tired now.\n
+START NOW\n,Start now.\n
+NOW RAIN\n,It is raining now.\n
+NOW LATE\n,It is late now.\n
+NOW OR LATER\n,Now or later?\n
+PAST\n,Past.\n
+PAST\n,In the past.\n
+PAST IX-1P LIVE THERE\n,"In the past, I lived there.\n"
+PAST FINISH\n,The past is finished.\n
+FORGET PAST\n,Forget the past.\n
+LEARN FROM PAST\n,Learn from the past.\n
+PAST 3 YEAR\n,For the past 3 years.\n
+PAST WEEK\n,This past week.\n
+PAST NIGHT\n,This past night.\n
+WALK PAST\n,He walked past me.\n
+PAST-DUE\n,It is past due.\n
+PLAY\n,Play.\n
+CHILD PLAY\n,The children are playing.\n
+PLAY GAME\n,Let's play a game.\n
+PLAY OUTSIDE\n,Go play outside.\n
+PLAY WITH DOG\n,I play with my dog.\n
+PLAY PIANO\n,She plays the piano.\n
+PLAY FOOTBALL\n,He plays football.\n
+LIKE PLAY\n,I like to play.\n
+PLAY TOGETHER\n,We played together.\n
+PLAY-GROUND\n,We went to the playground.\n
+WORK-HARD PLAY-HARD\n,"Work hard, play hard.\n"
+RUN\n,Run.\n
+IX-1P RUN\n,I am running.\n
+DOG RUN\n,The dog is running.\n
+RUN FAST\n,He runs fast.\n
+RUN SLOW\n,Run slow.\n
+IX-1P LIKE RUN\n,I like to run.\n
+RUN EVERY MORNING\n,I run every morning.\n
+BUS RUN\n,The bus is running.\n
+RUN-AWAY\n,He ran away.\n
+RUN RACE\n,I ran a race.\n
+WATER RUN\n,The water is running.\n
+SCHOOL\n,School.\n
+GO SCHOOL\n,I go to school.\n
+CHILD AT SCHOOL\n,The children are at school.\n
+SCHOOL FINISH\n,School is finished.\n
+SCHOOL START\n,School starts at 8.\n
+IX-1P LIKE SCHOOL\n,I like school.\n
+SCHOOL BIG\n,The school is big.\n
+NEW SCHOOL\n,It is a new school.\n
+WORK AT SCHOOL\n,I work at a school.\n
+SCHOOL BUS\n,I take the school bus.\n
+HIGH-SCHOOL\n,I am in high school.\n
+SHORT\n,Short.\n
+MY BROTHER SHORT\n,My brother is short.\n
+HAIR SHORT\n,Her hair is short.\n
+TIME SHORT\n,Time is short.\n
+MOVIE SHORT\n,The movie was short.\n
+BOOK SHORT\n,The book is short.\n
+SHORT STORY\n,It is a short story.\n
+SHORT MAN\n,He is a short man.\n
+WALK SHORT\n,We took a short walk.\n
+SHORT TIME\n,I have a short time.\n
+LIFE SHORT\n,Life is short.\n
+SISTER\n,Sister.\n
+MY SISTER OLDER\n,My sister is older.\n
+MY SISTER YOUNGER\n,My sister is younger.\n
+IX-1P LOVE MY SISTER\n,I love my sister.\n
+MY SISTER NAME(spell) M-A-R-Y\n,My sister's name is Mary.\n
+MY SISTER LIVE FAR\n,My sister lives far away.\n
+VISIT MY SISTER\n,I will visit my sister.\n
+MY SISTER FUNNY\n,My sister is funny.\n
+MY SISTER HELP ME\n,My sister helped me.\n
+MY SISTER TALL\n,My sister is tall.\n
+SIT\n,Sit.\n
+PLEASE SIT\n,Please sit.\n
+SIT-DOWN\n,Sit down.\n
+SIT HERE\n,Sit here.\n
+SIT CHAIR\n,Sit on the chair.\n
+DOG SIT\n,The dog is sitting.\n
+SIT STILL\n,Sit still.\n
+SIT WITH ME\n,Sit with me.\n
+SIT THERE\n,I will sit there.\n
+SIT WAIT\n,Sit and wait.\n
+SLEEP\n,Sleep.\n
+IX-1P SLEEP\n,I am sleeping.\n
+IX-1P WANT SLEEP\n,I want to sleep.\n
+IX-1P NEED SLEEP\n,I need to sleep.\n
+CAT SLEEP\n,The cat is sleeping.\n
+GO SLEEP\n,Go to sleep.\n
+SLEEP LONG\n,I slept for a long time.\n
+SLEEP WELL\n,Sleep well.\n
+TIME SLEEP\n,It is time to sleep.\n
+BED SLEEP\n,I sleep in my bed.\n
+BABY SLEEP\n,The baby is sleeping.\n
+SON\n,Son.\n
+IX-1P HAVE SON\n,I have a son.\n
+MY SON NAME(spell) T-O-M\n,My son's name is Tom.\n
+IX-1P LOVE MY SON\n,I love my son.\n
+MY SON 3 YEAR-OLD\n,My son is 3 years old.\n
+MY SON PLAY\n,My son is playing.\n
+MY SON GO SCHOOL\n,My son goes to school.\n
+MY SON TALL\n,My son is tall.\n
+MY SON SMART\n,My son is smart.\n
+MY SON SLEEP\n,My son is sleeping.\n
+VISIT MY SON\n,I will visit my son.\n
+STUDY\n,Study.\n
+IX-1P STUDY\n,I am studying.\n
+STUDY HARD\n,Study hard.\n
+IX-1P NEED STUDY\n,I need to study.\n
+STUDY FOR TEST\n,I am studying for a test.\n
+STUDY ASL\n,I study ASL.\n
+STUDY ENGLISH\n,He studies English.\n
+STUDY AT-HOME\n,I study at home.\n
+STUDY IN LIBRARY\n,She studies in the library.\n
+WHAT STUDY(wh)\n,What are you studying?\n
+STUDY TOGETHER\n,Let's study together.\n
+TABLE\n,Table.\n
+BOOK ON TABLE\n,The book is on the table.\n
+CLEAN TABLE\n,Clean the table.\n
+SIT AT TABLE\n,Sit at the table.\n
+TABLE BIG\n,The table is big.\n
+WOOD TABLE\n,It is a wood table.\n
+FOOD ON TABLE\n,The food is on the table.\n
+PUT-ON TABLE\n,Put it on the table.\n
+TABLE BROKE\n,The table is broken.\n
+BUY TABLE\n,I need to buy a table.\n
+TALL\n,Tall.\n
+TREE TALL\n,The tree is tall.\n
+BUILDING TALL\n,The building is tall.\n
+WOMAN TALL\n,The woman is tall.\n
+TALL PERSON\n,He is a tall person.\n
+IX-1P NOT TALL\n,I am not tall.\n
+HOW TALL YOU(wh)\n,How tall are you?\n
+TALL GRASS\n,The grass is tall.\n
+TALL BOY\n,He is a tall boy.\n
+THANK-YOU\n,Thank you.\n
+THANK-YOU FOR HELP\n,Thank you for your help.\n
+THANK-YOU FRIEND\n,"Thank you, my friend.\n"
+SAY THANK-YOU\n,Say thank you.\n
+THANK-YOU FATHER\n,"Thank you, father.\n"
+THANK-YOU MOTHER\n,"Thank you, mother.\n"
+THANK-YOU VERY-MUCH\n,Thank you very much.\n
+THANK-YOU COME\n,Thank you for coming.\n
+THANK-YOU NICE\n,"That is very nice, thank you.\n"
+THANK-YOU GOOD\n,"That's good, thank you.\n"
+TIME\n,Time.\n
+WHAT TIME(wh)\n,What time is it?\n
+TIME GO\n,It's time to go.\n
+HAVE TIME\n,I have time.\n
+NO TIME\n,I have no time.\n
+TIME FLY\n,Time flies.\n
+LONG TIME\n,It's been a long time.\n
+NEED MORE TIME\n,I need more time.\n
+WASTE TIME\n,Don't waste time.\n
+SPEND TIME\n,I spend time with family.\n
+TOMORROW\n,Tomorrow.\n
+SEE YOU TOMORROW\n,See you tomorrow.\n
+TOMORROW WORK\n,I work tomorrow.\n
+TOMORROW RAIN\n,It will rain tomorrow.\n
+TOMORROW SUNNY\n,Tomorrow will be sunny.\n
+TOMORROW MEET\n,Let's meet tomorrow.\n
+TOMORROW TEST\n,I have a test tomorrow.\n
+PLAN TOMORROW\n,What is the plan for tomorrow?\n
+TOMORROW DAY OFF\n,Tomorrow is my day off.\n
+TOMORROW BUSY\n,I am busy tomorrow.\n
+WALK\n,Walk.\n
+IX-1P WALK\n,I am walking.\n
+WALK SLOW\n,Walk slow.\n
+WALK FAST\n,Walk fast.\n
+DOG WALK\n,I walk my dog.\n
+WALK TO SCHOOL\n,I walk to school.\n
+WALK HOME\n,I walked home.\n
+WALK PARK\n,Let's walk in the park.\n
+WALK WITH ME\n,Walk with me.\n
+LONG WALK\n,It was a long walk.\n
+WALK OUTSIDE\n,I like to walk outside.\n
+WANT\n,Want.\n
+IX-1P WANT\n,I want.\n
+IX-1P WANT WATER\n,I want water.\n
+IX-1P WANT FOOD\n,I want food.\n
+IX-1P WANT GO\n,I want to go.\n
+IX-1P WANT-NOT\n,I don't want.\n
+IX-1P WANT-NOT GO\n,I don't want to go.\n
+WHAT YOU WANT(wh)\n,What do you want?\n
+IX-1P WANT NEW CAR\n,I want a new car.\n
+IX-1P WANT HELP\n,I want help.\n
+WATER\n,Water.\n
+NEED WATER\n,I need water.\n
+BOTTLE WATER\n,I have a bottle of water.\n
+OCEAN WATER\n,The ocean water is salty.\n
+RAIN WATER\n,We collected rain water.\n
+SWIM IN WATER\n,I swim in the water.\n
+WEEKEND\n,Weekend.\n
+NICE WEEKEND\n,Have a nice weekend.\n
+LAST WEEKEND\n,Last weekend.\n
+NEXT WEEKEND\n,Next weekend.\n
+WEEKEND PLAN\n,What are your plans for the weekend?\n
+WEEKEND FINISH\n,The weekend is finished.\n
+IX-1P LIKE WEEKEND\n,I like the weekend.\n
+WEEKEND FUN\n,The weekend was fun.\n
+WORK ON WEEKEND\n,I have to work on the weekend.\n
+WEEKEND TRIP\n,We went on a weekend trip.\n
+WHAT\n,What.\n
+WHAT(wh)\n,What?\n
+WHAT THAT(wh)\n,What is that?\n
+WHAT YOU DO(wh)\n,What are you doing?\n
+WHAT HAPPEN(wh)\n,What happened?\n
+WHAT IX-3P SAY(wh)\n,What did he say?\n
+WHAT WRONG(wh)\n,What is wrong?\n
+WHERE\n,Where.\n
+WHERE(wh)\n,Where?\n
+WHERE YOU LIVE(wh)\n,Where do you live?\n
+WHERE YOU GO(wh)\n,Where are you going?\n
+WHERE FROM(wh)\n,Where are you from?\n
+WHERE BATHROOM(wh)\n,Where is the bathroom?\n
+WHERE MY KEY(wh)\n,Where are my keys?\n
+WHERE WORK(wh)\n,Where do you work?\n
+WHERE SCHOOL(wh)\n,Where is the school?\n
+WHERE HURT(wh)\n,Where does it hurt?\n
+WHO\n,Who.\n
+WHO(wh)\n,Who?\n
+WHO YOU(wh)\n,Who are you?\n
+WHO THAT MAN(wh)\n,Who is that man?\n
+WHO THAT WOMAN(wh)\n,Who is that woman?\n
+WHO FRIEND(wh)\n,Who is your friend?\n
+WHO KNOW(wh)\n,Who knows?\n
+WHO CALL(wh)\n,Who called?\n
+WHO HELP(wh)\n,Who can help?\n
+WHO EAT MY FOOD(wh)\n,Who ate my food?\n
+WHO WIN(wh)\n,Who won?\n
+WHY\n,Why.\n
+WHY(wh)\n,Why?\n
+WHY YOU SAD(wh)\n,Why are you sad?\n
+WHY YOU LATE(wh)\n,Why are you late?\n
+WHY YOU GO(wh)\n,Why are you going?\n
+WHY IX-1P(wh)\n,Why me?\n
+WHY NOT\n,Why not?\n
+TELL ME WHY\n,Tell me why.\n
+WHY YOU DO THAT(wh)\n,Why did you do that?\n
+WITH\n,With.\n
+WITH ME\n,With me.\n
+GO WITH YOU\n,I will go with you.\n
+COME WITH ME\n,Come with me.\n
+WITH FRIEND\n,I am with my friend.\n
+WITH FAMILY\n,I am with my family.\n
+TALK WITH\n,Talk with him.\n
+EAT WITH\n,Eat with us.\n
+COFFEE WITH MILK\n,Coffee with milk.\n
+WORK WITH\n,I work with her.\n
+AGREE WITH YOU\n,I agree with you.\n
+WOMAN\n,Woman.\n
+WOMAN SMART\n,The woman is smart.\n
+WOMAN NICE\n,The woman is nice.\n
+WOMAN WORK\n,The woman is working.\n
+WOMAN READ BOOK\n,The woman is reading a book.\n
+IX-1P KNOW THAT WOMAN\n,I know that woman.\n
+WOMAN RUN\n,The woman is running.\n
+WOMAN OLD\n,The woman is old.\n
+WOMAN DRIVE CAR\n,The woman is driving a car.\n
+WOMAN TALK\n,The woman is talking.\n
+WORK\n,Work.\n
+IX-1P WORK\n,I am working.\n
+IX-1P GO WORK\n,I am going to work.\n
+WORK HARD\n,Work hard.\n
+IX-1P LIKE MY JOB(work)\n,I like my job.\n
+WORK LATE\n,I have to work late.\n
+START WORK\n,I start work at 9.\n
+WORK TOGETHER\n,We work together.\n
+WRONG\n,Wrong.\n
+YOU WRONG\n,You are wrong.\n
+IX-1P WRONG\n,I am wrong.\n
+THAT WRONG\n,That is wrong.\n
+WRONG ANSWER\n,That is the wrong answer.\n
+WRONG NUMBER\n,You have the wrong number.\n
+WRONG WAY\n,You are going the wrong way.\n
+SOMETHING WRONG\n,Something is wrong.\n
+FEEL WRONG\n,It feels wrong.\n
+GO WRONG\n,What could go wrong?\n
+YEAR\n,Year.\n
+ONE YEAR\n,One year.\n
+NEXT YEAR\n,Next year.\n
+LAST YEAR\n,Last year.\n
+YEAR OLD\n,How old are you?\n
+NEW YEAR\n,Happy New Year.\n
+YEAR FINISH\n,The year is finished.\n
+YEAR LONG\n,The year was long.\n
+SCHOOL YEAR\n,The school year started.\n
+YEAR 2025\n,It is the year 2025.\n
+YELLOW\n,Yellow.\n
+SUN YELLOW\n,The sun is yellow.\n
+CAR YELLOW\n,The car is yellow.\n
+FLOWER YELLOW\n,The flower is yellow.\n
+IX-1P LIKE YELLOW\n,I like yellow.\n
+YELLOW SHIRT\n,He is wearing a yellow shirt.\n
+YELLOW BANANA\n,The banana is yellow.\n
+PAINT YELLOW\n,Paint it yellow.\n
+YELLOW HOUSE\n,They live in the yellow house.\n
+YELLOW BOOK\n,I have a yellow book.\n
+YELLOW LIGHT\n,The light is yellow.\n
+YES\n,Yes.\n
+YES IX-1P CAN\n,"Yes, I can.\n"
+YES IX-1P DO\n,"Yes, I do.\n"
+YES IX-1P KNOW\n,"Yes, I know.\n"
+YES PLEASE\n,"Yes, please.\n"
+YES THAT TRUE\n,"Yes, that is true.\n"
+SAY YES\n,She said yes.\n
+YES OR NO\n,Yes or no?\n
+YES GOOD\n,"Yes, that is good.\n"
+YES IX-1P AGREE\n,"Yes, I agree.\n"
+YESTERDAY\n,Yesterday.\n
+YESTERDAY IX-1P WORK\n,I worked yesterday.\n
+YESTERDAY RAIN\n,It rained yesterday.\n
+YESTERDAY HOT\n,It was hot yesterday.\n
+YESTERDAY TIRED\n,I was tired yesterday.\n
+YESTERDAY MEET FRIEND\n,I met my friend yesterday.\n
+YESTERDAY GO MOVIE\n,I went to the movies yesterday.\n
+WHAT DO YESTERDAY(wh)\n,What did you do yesterday?\n
+YESTERDAY SUNDAY\n,Yesterday was Sunday.\n
+TALK YESTERDAY\n,We talked yesterday.\n
