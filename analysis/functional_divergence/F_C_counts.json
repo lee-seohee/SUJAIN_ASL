@@ -1,0 +1,1119 @@
+{
+  "of/ADP": {
+    "NOUN_ADJ": 1380,
+    "NOUN_NOUN": 3284,
+    "NOUN_DET": 3711,
+    "NOUN_ADV": 51,
+    "PROPN_ADJ": 16,
+    "NOUN_VERB": 504,
+    "PROPN_DET": 56,
+    "CCONJ_ADJ": 7,
+    "NOUN_CCONJ": 11,
+    "PROPN_NOUN": 25,
+    "VERB_DET": 83,
+    "PROPN_PROPN": 68,
+    "NOUN_NUM": 106,
+    "NOUN_PROPN": 723,
+    "ADP_DET": 35,
+    "CCONJ_NOUN": 12,
+    "PRON_DET": 118,
+    "NUM_PRON": 41,
+    "PRON_PRON": 145,
+    "NOUN_PRON": 592,
+    "ADJ_PUNCT": 4,
+    "VERB_ADJ": 25,
+    "PUNCT_NOUN": 14,
+    "CCONJ_ADV": 1,
+    "NUM_DET": 108,
+    "ADP_NOUN": 26,
+    "AUX_ADJ": 24,
+    "VERB_NOUN": 38,
+    "ADJ_PROPN": 9,
+    "NOUN_SCONJ": 49,
+    "CCONJ_PROPN": 5,
+    "PUNCT_VERB": 2,
+    "ADJ_PRON": 139,
+    "PRON_NOUN": 16,
+    "ADJ_DET": 125,
+    "ADJ_ADJ": 14,
+    "PUNCT_DET": 14,
+    "VERB_ADV": 1,
+    "SCONJ_PRON": 23,
+    "NOUN_ADP": 20,
+    "SCONJ_DET": 29,
+    "VERB_VERB": 11,
+    "VERB_PRON": 36,
+    "PUNCT_PRON": 8,
+    "AUX_DET": 25,
+    "ADJ_VERB": 25,
+    "PRON_ADV": 1,
+    "ADP_PROPN": 6,
+    "ADV_PROPN": 7,
+    "NOUN_PUNCT": 11,
+    "ADP_ADJ": 10,
+    "VERB_NUM": 8,
+    "NUM_NOUN": 7,
+    "AUX_NOUN": 5,
+    "PRON_PROPN": 8,
+    "AUX_VERB": 1,
+    "ADV_NOUN": 23,
+    "ADP_PRON": 9,
+    "PUNCT_ADJ": 6,
+    "CCONJ_PRON": 3,
+    "ADP_ADV": 1,
+    "NOUN_PART": 4,
+    "ADV_VERB": 5,
+    "NOUN_AUX": 14,
+    "ADJ_NOUN": 33,
+    "PUNCT_SCONJ": 1,
+    "CCONJ_DET": 14,
+    "PROPN_PRON": 2,
+    "PART_NOUN": 2,
+    "PRON_ADJ": 7,
+    "VERB_CCONJ": 1,
+    "ADV_PRON": 19,
+    "ADV_DET": 18,
+    "VERB_PROPN": 10,
+    "PROPN_ADP": 1,
+    "PRON_VERB": 8,
+    "CCONJ_VERB": 3,
+    "NUM_ADJ": 6,
+    "SCONJ_NOUN": 9,
+    "NUM_PROPN": 4,
+    "ADP_NUM": 6,
+    "NUM_NUM": 1,
+    "ADV_ADJ": 9,
+    "NOUN_INTJ": 1,
+    "ADP_PUNCT": 1,
+    "VERB_PUNCT": 5,
+    "NOUN_X": 1,
+    "SCONJ_VERB": 2,
+    "ADJ_CCONJ": 1,
+    "PRON_NUM": 3,
+    "AUX_PRON": 2,
+    "PART_PRON": 2,
+    "PUNCT_PROPN": 2,
+    "SCONJ_PROPN": 1,
+    "SCONJ_ADJ": 4,
+    "ADJ_ADV": 1,
+    "PUNCT_PART": 1,
+    "NUM_AUX": 1,
+    "PUNCT_NUM": 1,
+    "VERB_SCONJ": 2,
+    "ADJ_SCONJ": 2,
+    "AUX_ADV": 3,
+    "DET_ADJ": 1,
+    "PROPN_VERB": 2,
+    "VERB_AUX": 2,
+    "ADV_ADV": 1,
+    "ADV_PUNCT": 1,
+    "PART_DET": 1,
+    "ADV_NUM": 1,
+    "ADJ_PART": 1,
+    "PRON_SCONJ": 1,
+    "ADJ_ADP": 2,
+    "ADJ_NUM": 1,
+    "SCONJ_ADV": 1,
+    "PRON_PART": 1,
+    "PRON_X": 1
+  },
+  "the/DET": {
+    "ADP_ADJ": 3485,
+    "ADP_NOUN": 10266,
+    "ADP_PROPN": 712,
+    "VERB_NOUN": 5791,
+    "CCONJ_NOUN": 643,
+    "ADP_NUM": 246,
+    "VERB_ADJ": 1570,
+    "CCONJ_ADJ": 242,
+    "PUNCT_ADJ": 478,
+    "CCONJ_PROPN": 50,
+    "AUX_NOUN": 1364,
+    "ADV_NOUN": 406,
+    "AUX_ADJ": 590,
+    "PUNCT_NOUN": 1425,
+    "AUX_NUM": 32,
+    "SCONJ_NOUN": 1457,
+    "ADJ_PROPN": 2,
+    "PRON_NOUN": 239,
+    "PRON_VERB": 3,
+    "VERB_ADV": 57,
+    "SCONJ_ADJ": 385,
+    "VERB_NUM": 64,
+    "PUNCT_VERB": 47,
+    "AUX_ADV": 53,
+    "NOUN_ADV": 7,
+    "ADJ_NOUN": 65,
+    "PUNCT_NUM": 20,
+    "DET_ADJ": 76,
+    "VERB_PROPN": 164,
+    "DET_NOUN": 267,
+    "ADP_VERB": 257,
+    "ADV_ADJ": 124,
+    "PART_NOUN": 183,
+    "NOUN_ADJ": 61,
+    "ADP_ADV": 126,
+    "AUX_VERB": 38,
+    "NOUN_NOUN": 217,
+    "NUM_NOUN": 17,
+    "PROPN_NOUN": 30,
+    "SCONJ_PROPN": 115,
+    "PUNCT_PROPN": 96,
+    "PART_ADJ": 50,
+    "VERB_VERB": 151,
+    "SCONJ_NUM": 31,
+    "CCONJ_ADV": 5,
+    "PROPN_ADJ": 7,
+    "NUM_ADJ": 5,
+    "PART_NUM": 1,
+    "PRON_ADJ": 63,
+    "CCONJ_VERB": 17,
+    "AUX_PROPN": 19,
+    "ADV_PROPN": 9,
+    "NOUN_PROPN": 7,
+    "ADJ_ADJ": 12,
+    "PUNCT_ADV": 17,
+    "ADV_ADV": 19,
+    "SCONJ_VERB": 42,
+    "PRON_PROPN": 13,
+    "SCONJ_ADV": 14,
+    "SCONJ_PRON": 2,
+    "ADP_PRON": 16,
+    "NUM_NUM": 1,
+    "ADP_X": 3,
+    "PROPN_PROPN": 5,
+    "ADV_NUM": 5,
+    "CCONJ_NUM": 5,
+    "VERB_X": 1,
+    "PROPN_VERB": 1,
+    "INTJ_NOUN": 3,
+    "ADP_DET": 3,
+    "DET_ADV": 1,
+    "ADJ_NUM": 1,
+    "DET_VERB": 6,
+    "NUM_PROPN": 1,
+    "PART_PROPN": 4,
+    "SCONJ_ADP": 2,
+    "NOUN_VERB": 4,
+    "PART_ADV": 2,
+    "X_NOUN": 5,
+    "PRON_ADV": 5,
+    "INTJ_ADJ": 1,
+    "PROPN_NUM": 1,
+    "ADV_VERB": 14,
+    "ADJ_VERB": 4,
+    "CCONJ_DET": 1,
+    "PROPN_AUX": 1,
+    "DET_NUM": 1,
+    "CCONJ_PRON": 3,
+    "NUM_ADV": 1,
+    "ADJ_PRON": 1,
+    "VERB_PRON": 3,
+    "ADP_ADP": 2,
+    "DET_PROPN": 2,
+    "PUNCT_X": 1,
+    "PRON_NUM": 4,
+    "X_ADJ": 1,
+    "SCONJ_AUX": 1,
+    "ADP_AUX": 1,
+    "NOUN_NUM": 1
+  },
+  "a/DET": {
+    "ADP_VERB": 27,
+    "ADP_NOUN": 828,
+    "ADP_ADJ": 439,
+    "VERB_ADJ": 493,
+    "VERB_NOUN": 1056,
+    "NOUN_NOUN": 34,
+    "CCONJ_ADJ": 24,
+    "AUX_NOUN": 354,
+    "SCONJ_NOUN": 80,
+    "VERB_ADV": 78,
+    "PROPN_ADJ": 11,
+    "AUX_ADJ": 211,
+    "VERB_PROPN": 18,
+    "ADV_ADV": 2,
+    "PUNCT_ADJ": 52,
+    "ADV_NOUN": 176,
+    "PRON_ADV": 4,
+    "PRON_ADJ": 24,
+    "ADP_PROPN": 21,
+    "PART_ADJ": 41,
+    "ADP_ADV": 59,
+    "PRON_NOUN": 46,
+    "PUNCT_NOUN": 115,
+    "ADV_VERB": 5,
+    "AUX_PROPN": 2,
+    "DET_NOUN": 55,
+    "NOUN_ADJ": 15,
+    "VERB_VERB": 34,
+    "VERB_NUM": 28,
+    "CCONJ_NOUN": 66,
+    "AUX_VERB": 15,
+    "ADV_ADJ": 55,
+    "NUM_NOUN": 10,
+    "PART_NOUN": 103,
+    "AUX_ADV": 27,
+    "PUNCT_NUM": 6,
+    "ADJ_NOUN": 13,
+    "SCONJ_ADV": 4,
+    "DET_ADJ": 7,
+    "PART_ADV": 3,
+    "ADV_PROPN": 2,
+    "CCONJ_NUM": 2,
+    "SCONJ_ADJ": 23,
+    "NOUN_VERB": 3,
+    "PROPN_NOUN": 12,
+    "CCONJ_PROPN": 2,
+    "AUX_X": 1,
+    "NOUN_PROPN": 2,
+    "ADP_NUM": 24,
+    "PUNCT_ADV": 4,
+    "PUNCT_VERB": 9,
+    "CCONJ_VERB": 2,
+    "PART_NUM": 3,
+    "INTJ_ADJ": 1,
+    "AUX_NUM": 9,
+    "PUNCT_PROPN": 3,
+    "DET_NUM": 1,
+    "PUNCT_PART": 1,
+    "PROPN_PROPN": 4,
+    "SCONJ_NUM": 2,
+    "DET_ADV": 1,
+    "SCONJ_VERB": 1,
+    "CCONJ_ADV": 5,
+    "NOUN_ADV": 1,
+    "PART_PROPN": 3,
+    "SCONJ_PROPN": 2,
+    "NOUN_NUM": 1,
+    "ADJ_PROPN": 1,
+    "ADJ_VERB": 1,
+    "ADJ_ADJ": 2,
+    "PRON_VERB": 1
+  },
+  "in/ADP": {
+    "CCONJ_DET": 2,
+    "NOUN_ADJ": 2,
+    "PUNCT_NOUN": 3,
+    "NOUN_VERB": 2,
+    "NUM_VERB": 1,
+    "PROPN_NOUN": 26,
+    "NOUN_DET": 10,
+    "NOUN_PROPN": 4,
+    "NUM_NOUN": 7,
+    "AUX_DET": 2,
+    "VERB_NOUN": 12,
+    "NUM_NUM": 3,
+    "PUNCT_DET": 3,
+    "NUM_DET": 5,
+    "PROPN_PROPN": 2,
+    "NUM_ADJ": 4,
+    "ADJ_DET": 1,
+    "NUM_PROPN": 2,
+    "VERB_DET": 7,
+    "NOUN_NOUN": 2,
+    "PRON_DET": 1,
+    "PUNCT_PRON": 1,
+    "VERB_ADJ": 3,
+    "ADJ_ADJ": 1,
+    "VERB_PROPN": 1,
+    "PUNCT_ADJ": 1,
+    "PROPN_ADJ": 1,
+    "NOUN_PRON": 1,
+    "CCONJ_ADJ": 1,
+    "AUX_ADJ": 1,
+    "VERB_PRON": 1
+  },
+  "and/CCONJ": {
+    "NOUN_NOUN": 6,
+    "PUNCT_PRON": 1,
+    "ADV_ADJ": 1,
+    "NOUN_DET": 4,
+    "PROPN_DET": 2,
+    "PROPN_PROPN": 5,
+    "ADV_ADV": 1,
+    "PROPN_PRON": 1,
+    "PROPN_NOUN": 1,
+    "ADJ_ADJ": 1,
+    "NOUN_PROPN": 2,
+    "ADP_PRON": 1,
+    "ADJ_DET": 1
+  },
+  "all/DET": {
+    "ADP_NOUN": 17,
+    "ADP_PRON": 4,
+    "ADP_DET": 4,
+    "PUNCT_DET": 1,
+    "ADP_ADJ": 4,
+    "ADP_VERB": 1,
+    "NOUN_PRON": 1,
+    "VERB_DET": 1,
+    "ADP_NUM": 2
+  },
+  "the/PRON": {
+    "DET_ADV": 16,
+    "PUNCT_VERB": 1,
+    "NOUN_ADV": 2,
+    "CCONJ_ADJ": 1,
+    "PUNCT_ADJ": 6,
+    "PUNCT_ADV": 7,
+    "DET_ADJ": 3,
+    "ADV_ADV": 1,
+    "SCONJ_ADJ": 2,
+    "ADV_ADJ": 1,
+    "CCONJ_ADV": 1,
+    "DET_PUNCT": 1,
+    "ADP_PRON": 1,
+    "ADJ_ADV": 1
+  },
+  "been/AUX": {
+    "AUX_ADJ": 52,
+    "ADV_VERB": 90,
+    "AUX_VERB": 459,
+    "AUX_DET": 34,
+    "AUX_ADV": 55,
+    "PART_ADP": 1,
+    "ADV_DET": 9,
+    "AUX_CCONJ": 3,
+    "AUX_NUM": 2,
+    "AUX_PUNCT": 5,
+    "NOUN_VERB": 4,
+    "PART_VERB": 26,
+    "PART_ADV": 5,
+    "AUX_ADP": 19,
+    "ADV_SCONJ": 1,
+    "ADV_ADV": 8,
+    "PART_ADJ": 7,
+    "ADV_ADP": 6,
+    "AUX_PRON": 1,
+    "ADV_PUNCT": 2,
+    "ADV_ADJ": 6,
+    "AUX_SCONJ": 2,
+    "AUX_PART": 2,
+    "AUX_NOUN": 6,
+    "ADJ_VERB": 1,
+    "CCONJ_VERB": 1,
+    "PRON_VERB": 2
+  },
+  "an/DET": {
+    "AUX_NOUN": 8,
+    "VERB_ADJ": 35,
+    "CCONJ_ADJ": 2,
+    "VERB_VERB": 5,
+    "PUNCT_NOUN": 11,
+    "ADP_ADJ": 38,
+    "VERB_NOUN": 68,
+    "PRON_NOUN": 1,
+    "VERB_ADV": 4,
+    "ADP_VERB": 6,
+    "NOUN_ADJ": 2,
+    "ADP_NOUN": 46,
+    "ADV_ADJ": 5,
+    "CCONJ_NOUN": 9,
+    "SCONJ_ADJ": 3,
+    "ADV_NOUN": 6,
+    "NOUN_NOUN": 2,
+    "ADP_ADV": 2,
+    "DET_NOUN": 6,
+    "ADP_DET": 1,
+    "PUNCT_ADJ": 6,
+    "PART_ADJ": 3,
+    "PUNCT_DET": 1,
+    "AUX_ADJ": 11,
+    "PART_VERB": 1,
+    "SCONJ_NOUN": 4,
+    "ADP_NUM": 2,
+    "ADV_PROPN": 1,
+    "PRON_ADJ": 3,
+    "AUX_ADV": 2,
+    "ADJ_NOUN": 1,
+    "PROPN_NOUN": 1,
+    "VERB_DET": 1,
+    "X_NOUN": 1,
+    "ADV_VERB": 1
+  },
+  "am/AUX": {
+    "PRON_VERB": 20,
+    "PRON_ADV": 5,
+    "PRON_ADP": 7,
+    "PRON_ADJ": 13,
+    "PRON_DET": 3,
+    "PRON_PART": 8,
+    "CCONJ_ADJ": 1
+  },
+  "being/AUX": {
+    "AUX_VERB": 26,
+    "SCONJ_DET": 1,
+    "AUX_ADV": 3,
+    "ADP_DET": 2,
+    "NOUN_VERB": 1,
+    "ADV_VERB": 5
+  },
+  "not/PART": {
+    "AUX_VERB": 1,
+    "SCONJ_PUNCT": 1,
+    "AUX_ADV": 2,
+    "ADP_ADV": 1,
+    "AUX_ADJ": 1,
+    "AUX_DET": 1,
+    "AUX_PROPN": 1,
+    "PRON_VERB": 1,
+    "AUX_PUNCT": 1,
+    "AUX_AUX": 1,
+    "ADP_AUX": 1
+  },
+  "would/AUX": {
+    "PRON_VERB": 12,
+    "NOUN_AUX": 1,
+    "PRON_ADV": 6
+  },
+  "will/AUX": {
+    "SCONJ_PRON": 1,
+    "ADV_VERB": 1,
+    "PRON_VERB": 4,
+    "PROPN_VERB": 1,
+    "PROPN_AUX": 1,
+    "ADV_DET": 1
+  },
+  "it/PRON": {
+    "AUX_AUX": 1,
+    "PUNCT_AUX": 7,
+    "CCONJ_AUX": 3,
+    "PUNCT_VERB": 1,
+    "SCONJ_VERB": 1,
+    "VERB_ADJ": 1,
+    "PRON_AUX": 1,
+    "PRON_VERB": 1,
+    "VERB_AUX": 1,
+    "ADP_PUNCT": 1,
+    "VERB_DET": 1
+  },
+  "these/DET": {
+    "ADP_NOUN": 7,
+    "ADV_NUM": 1
+  },
+  "one/PRON": {
+    "NOUN_AUX": 1
+  },
+  "i/PRON": {
+    "PUNCT_VERB": 43,
+    "PUNCT_AUX": 31,
+    "PRON_VERB": 5,
+    "CCONJ_AUX": 3,
+    "PROPN_VERB": 3,
+    "ADV_VERB": 1,
+    "PUNCT_ADV": 4,
+    "VERB_AUX": 1,
+    "SCONJ_AUX": 1,
+    "PUNCT_PUNCT": 1,
+    "VERB_VERB": 1,
+    "PUNCT_CCONJ": 1,
+    "SCONJ_ADV": 1,
+    "INTJ_AUX": 1
+  },
+  "this/DET": {
+    "CCONJ_NOUN": 2,
+    "ADP_NOUN": 19,
+    "ADP_ADJ": 2,
+    "DET_NOUN": 1,
+    "PRON_NOUN": 1
+  },
+  "is/AUX": {
+    "PRON_DET": 16,
+    "NOUN_ADV": 4,
+    "PRON_PUNCT": 3,
+    "VERB_NUM": 1,
+    "NOUN_ADJ": 2,
+    "PROPN_ADV": 1,
+    "PRON_SCONJ": 1,
+    "PRON_ADJ": 6,
+    "PRON_ADV": 8,
+    "VERB_ADJ": 2,
+    "PRON_NOUN": 1,
+    "VERB_ADV": 1,
+    "PRON_PROPN": 1,
+    "PRON_PART": 4,
+    "NOUN_ADP": 3,
+    "PROPN_PART": 2,
+    "NOUN_VERB": 4,
+    "AUX_PRON": 1,
+    "NOUN_PART": 1,
+    "CCONJ_ADV": 1,
+    "PRON_ADP": 1,
+    "PRON_NUM": 1,
+    "VERB_DET": 2,
+    "NUM_DET": 1,
+    "PROPN_ADP": 1,
+    "PRON_PRON": 1,
+    "NOUN_NOUN": 3,
+    "NOUN_NUM": 2
+  },
+  "how/SCONJ": {
+    "ADP_ADJ": 3,
+    "ADP_PART": 1,
+    "ADP_PRON": 7,
+    "ADP_PROPN": 1,
+    "VERB_NOUN": 1,
+    "ADP_NOUN": 1,
+    "ADP_DET": 1
+  },
+  "be/AUX": {
+    "AUX_VERB": 3,
+    "PART_VERB": 4,
+    "AUX_DET": 4,
+    "AUX_ADV": 1,
+    "PART_ADV": 4,
+    "PART_ADJ": 1,
+    "PRON_ADP": 1,
+    "AUX_ADP": 1,
+    "ADV_VERB": 1,
+    "AUX_ADJ": 2,
+    "PART_PRON": 1,
+    "PART_DET": 1,
+    "AUX_NOUN": 1
+  },
+  "above/ADP": {
+    "PUNCT_PRON": 1
+  },
+  "'s/PART": {
+    "PROPN_ADV": 1,
+    "PROPN_NOUN": 3,
+    "NOUN_ADV": 1
+  },
+  "are/AUX": {
+    "PRON_DET": 2,
+    "PRON_VERB": 5,
+    "NOUN_ADJ": 2,
+    "NOUN_ADV": 2,
+    "PRON_PART": 1,
+    "PRON_ADJ": 2,
+    "PRON_PRON": 1,
+    "VERB_ADJ": 1,
+    "NOUN_NOUN": 1,
+    "SCONJ_VERB": 1
+  },
+  "our/PRON": {
+    "ADP_NOUN": 9,
+    "VERB_NOUN": 1,
+    "AUX_NOUN": 1,
+    "PUNCT_ADJ": 1,
+    "ADP_ADJ": 2
+  },
+  "me/PRON": {
+    "VERB_VERB": 10,
+    "VERB_PART": 4,
+    "VERB_PUNCT": 2,
+    "ADP_PUNCT": 1,
+    "VERB_ADP": 2,
+    "VERB_DET": 1
+  },
+  "as/ADP": {
+    "ADJ_ADJ": 1,
+    "NOUN_ADJ": 1,
+    "ADJ_NUM": 1,
+    "AUX_ADJ": 1,
+    "ADV_DET": 2,
+    "PUNCT_DET": 1
+  },
+  "to/ADP": {
+    "VERB_DET": 15,
+    "VERB_NUM": 1,
+    "VERB_PROPN": 3,
+    "NOUN_NOUN": 2,
+    "NOUN_DET": 4,
+    "VERB_VERB": 1,
+    "PROPN_DET": 1,
+    "VERB_ADJ": 1,
+    "NOUN_PROPN": 1,
+    "NOUN_ADJ": 1,
+    "VERB_PRON": 1,
+    "NOUN_CCONJ": 1,
+    "ADV_VERB": 1,
+    "PROPN_NOUN": 1
+  },
+  "lt/DET": {
+    "PUNCT_ADJ": 1,
+    "PUNCT_NOUN": 2
+  },
+  "which/PRON": {
+    "ADP_PRON": 2,
+    "PUNCT_VERB": 1,
+    "PUNCT_AUX": 1,
+    "ADP_AUX": 1,
+    "ADP_NUM": 1,
+    "ADP_NOUN": 1
+  },
+  "those/DET": {
+    "ADP_ADJ": 1
+  },
+  "what/PRON": {
+    "VERB_PRON": 1,
+    "ADP_PRON": 3,
+    "ADP_AUX": 3,
+    "PUNCT_PRON": 1,
+    "ADV_PRON": 1,
+    "PUNCT_AUX": 1,
+    "AUX_PRON": 2,
+    "VERB_AUX": 1,
+    "ADP_DET": 1
+  },
+  "there/PRON": {
+    "ADV_VERB": 1,
+    "ADP_AUX": 1,
+    "PUNCT_NOUN": 1,
+    "ADP_PROPN": 1
+  },
+  "their/PRON": {
+    "ADP_NOUN": 6,
+    "ADP_ADJ": 1
+  },
+  "us/PRON": {
+    "VERB_VERB": 21,
+    "VERB_PART": 11,
+    "VERB_AUX": 2,
+    "VERB_DET": 2,
+    "ADP_PUNCT": 2,
+    "DET_PUNCT": 4,
+    "ADP_SCONJ": 1,
+    "VERB_PUNCT": 2,
+    "ADP_PRON": 1,
+    "VERB_ADP": 1,
+    "DET_CCONJ": 1,
+    "ADP_ADP": 1,
+    "ADP_VERB": 2,
+    "AUX_PUNCT": 1
+  },
+  "does/AUX": {
+    "PRON_PART": 1,
+    "NOUN_PART": 1
+  },
+  "we/PRON": {
+    "PUNCT_AUX": 6,
+    "PUNCT_VERB": 3,
+    "NOUN_AUX": 2,
+    "AUX_ADV": 1,
+    "SCONJ_VERB": 1,
+    "CCONJ_AUX": 1,
+    "CCONJ_VERB": 1,
+    "SCONJ_AUX": 1
+  },
+  "to/PART": {
+    "NOUN_VERB": 6,
+    "VERB_VERB": 22,
+    "ADJ_VERB": 3,
+    "PUNCT_AUX": 1,
+    "NOUN_AUX": 1,
+    "DET_NOUN": 1,
+    "PUNCT_VERB": 2,
+    "VERB_AUX": 1,
+    "ADJ_PROPN": 1,
+    "AUX_VERB": 1
+  },
+  "a/PRON": {
+    "ADP_NOUN": 6,
+    "ADV_ADJ": 1,
+    "ADV_NOUN": 3,
+    "DET_PUNCT": 1,
+    "ADJ_AUX": 1,
+    "ADP_PUNCT": 1,
+    "VERB_PUNCT": 1
+  },
+  "for/ADP": {
+    "PROPN_VERB": 1,
+    "NOUN_PROPN": 1,
+    "NOUN_ADJ": 3,
+    "NOUN_DET": 4,
+    "PUNCT_ADV": 1,
+    "VERB_DET": 3,
+    "PUNCT_NOUN": 2,
+    "PUNCT_VERB": 2,
+    "PROPN_DET": 1,
+    "VERB_ADJ": 1,
+    "NOUN_NOUN": 4
+  },
+  "on/ADP": {
+    "NOUN_DET": 4,
+    "NOUN_NOUN": 1,
+    "X_DET": 2,
+    "VERB_PRON": 2,
+    "VERB_DET": 4,
+    "NOUN_PROPN": 3,
+    "NUM_DET": 1,
+    "NOUN_ADV": 1,
+    "CCONJ_VERB": 1,
+    "NOUN_PRON": 1,
+    "AUX_DET": 1
+  },
+  "those/PRON": {
+    "ADP_PRON": 3,
+    "ADP_PUNCT": 1,
+    "ADP_VERB": 1
+  },
+  "all/PRON": {
+    "ADP_PUNCT": 7,
+    "ADP_ADP": 3,
+    "ADP_AUX": 2,
+    "ADP_VERB": 2,
+    "PRON_VERB": 1
+  },
+  "that/PRON": {
+    "PUNCT_AUX": 3,
+    "ADP_PUNCT": 3,
+    "NOUN_PROPN": 1,
+    "ADP_PRON": 1,
+    "NOUN_NOUN": 1,
+    "ADP_AUX": 1,
+    "NOUN_AUX": 1,
+    "PRON_AUX": 1
+  },
+  "any/DET": {
+    "ADP_ADJ": 1,
+    "ADP_NOUN": 2
+  },
+  "could/AUX": {
+    "NOUN_VERB": 1
+  },
+  "them/PRON": {
+    "ADP_AUX": 1,
+    "ADP_PUNCT": 1
+  },
+  "at/ADP": {
+    "NOUN_DET": 2,
+    "ADJ_PRON": 1,
+    "AUX_NUM": 1
+  },
+  "that/DET": {
+    "ADP_NOUN": 2,
+    "PUNCT_PROPN": 1
+  },
+  "up/ADP": {
+    "ADP_PART": 2
+  },
+  "an/PRON": {
+    "ADP_ADP": 1,
+    "ADP_PUNCT": 1
+  },
+  "have/AUX": {
+    "AUX_VERB": 1,
+    "PRON_VERB": 1,
+    "PART_VERB": 1,
+    "ADV_VERB": 2,
+    "NOUN_VERB": 1,
+    "PRON_ADV": 1
+  },
+  "they/PRON": {
+    "PUNCT_AUX": 2,
+    "SCONJ_AUX": 1,
+    "PUNCT_VERB": 1
+  },
+  "í/DET": {
+    "NOUN_ADJ": 1
+  },
+  "while/SCONJ": {
+    "PUNCT_DET": 1
+  },
+  "your/PRON": {
+    "ADP_NOUN": 8,
+    "PRON_NOUN": 1,
+    "ADP_VERB": 1,
+    "ADP_ADJ": 1,
+    "VERB_NOUN": 1,
+    "AUX_NOUN": 1
+  },
+  "about/ADP": {
+    "ADP_NOUN": 1,
+    "VERB_DET": 2,
+    "AUX_VERB": 1,
+    "NOUN_DET": 1,
+    "AUX_PUNCT": 1
+  },
+  "can/AUX": {
+    "PRON_VERB": 1,
+    "PRON_PART": 1,
+    "NOUN_VERB": 1,
+    "NOUN_AUX": 1
+  },
+  "that/SCONJ": {
+    "PRON_PRON": 1,
+    "VERB_DET": 1,
+    "VERB_PRON": 2,
+    "ADJ_PRON": 1,
+    "VERB_PROPN": 1,
+    "SCONJ_PRON": 1,
+    "ADJ_PROPN": 1,
+    "VERB_ADP": 1
+  },
+  "you/PRON": {
+    "VERB_PUNCT": 5,
+    "ADP_AUX": 1,
+    "SCONJ_ADV": 1,
+    "AUX_VERB": 2,
+    "PRON_VERB": 1,
+    "VERB_ADV": 3,
+    "ADP_PUNCT": 2,
+    "PUNCT_VERB": 1
+  },
+  "her/PRON": {
+    "ADP_ADJ": 1,
+    "ADP_NOUN": 2,
+    "VERB_ADJ": 1
+  },
+  "this/PRON": {
+    "ADP_PUNCT": 10,
+    "PUNCT_AUX": 5,
+    "ADP_AUX": 2,
+    "ADP_ADV": 1,
+    "ADP_ADP": 2,
+    "ADP_CCONJ": 1,
+    "ADP_VERB": 1
+  },
+  "he/PRON": {
+    "NOUN_AUX": 1,
+    "PUNCT_AUX": 1,
+    "AUX_VERB": 1
+  },
+  "sv/ADP": {
+    "PUNCT_DET": 1
+  },
+  "do/AUX": {
+    "PRON_PART": 5
+  },
+  "ro/PRON": {
+    "PUNCT_ADV": 1
+  },
+  "was/AUX": {
+    "PRON_NOUN": 1,
+    "PRON_ADJ": 2,
+    "PROPN_ADP": 1,
+    "SCONJ_PROPN": 1,
+    "PRON_VERB": 2,
+    "NOUN_ADV": 1,
+    "PRON_PART": 1,
+    "PRON_ADV": 1,
+    "VERB_ADV": 1,
+    "NOUN_NOUN": 3
+  },
+  "whom/PRON": {
+    "PUNCT_PRON": 1,
+    "PRON_PUNCT": 1
+  },
+  "having/AUX": {
+    "ADP_AUX": 1
+  },
+  "something/PRON": {
+    "PUNCT_ADP": 1
+  },
+  "were/AUX": {
+    "PRON_VERB": 1
+  },
+  "both/CCONJ": {
+    "VERB_ADP": 1,
+    "ADP_ADJ": 1
+  },
+  "half/DET": {
+    "ADP_DET": 1
+  },
+  "lt/PRON": {
+    "PUNCT_PRON": 3
+  },
+  "by/ADP": {
+    "NOUN_DET": 1,
+    "VERB_DET": 1,
+    "NOUN_PROPN": 1
+  },
+  ".should/AUX": {
+    "NOUN_ADV": 1
+  },
+  "as/SCONJ": {
+    "VERB_PRON": 1,
+    "ADV_PRON": 1
+  },
+  "alongside/ADP": {
+    "VERB_ADJ": 1
+  },
+  "whose/DET": {
+    "ADP_NOUN": 1
+  },
+  "because/SCONJ": {
+    "NOUN_PRON": 1
+  },
+  "him/PRON": {
+    "ADP_PUNCT": 1,
+    "VERB_DET": 1
+  },
+  "some/DET": {
+    "ADP_VERB": 1,
+    "ADP_ADJ": 1,
+    "ADP_NOUN": 1
+  },
+  "yourself/PRON": {
+    "VERB_PUNCT": 1
+  },
+  "should/AUX": {
+    "NOUN_AUX": 1,
+    "PRON_VERB": 2,
+    "PRON_AUX": 2,
+    "PRON_DET": 1
+  },
+  "sk/DET": {
+    "PUNCT_NOUN": 1
+  },
+  "against/ADP": {
+    "NOUN_PROPN": 1,
+    "NOUN_NOUN": 2,
+    "VERB_DET": 1
+  },
+  "but/CCONJ": {
+    "PUNCT_PRON": 4,
+    "PUNCT_VERB": 1,
+    "ADJ_ADJ": 1
+  },
+  "why/SCONJ": {
+    "PUNCT_PUNCT": 1
+  },
+  "shall/AUX": {
+    "PRON_VERB": 1
+  },
+  "my/PRON": {
+    "ADP_NOUN": 6,
+    "VERB_NOUN": 2
+  },
+  "its/PRON": {
+    "ADP_ADJ": 1,
+    "ADP_NOUN": 3
+  },
+  "out/ADP": {
+    "VERB_ADP": 1,
+    "NOUN_DET": 1
+  },
+  "both/DET": {
+    "ADP_ADJ": 1
+  },
+  "both/PRON": {
+    "AUX_ADP": 1,
+    "AUX_AUX": 1,
+    "AUX_PUNCT": 1
+  },
+  "everybody/PRON": {
+    "PUNCT_VERB": 1
+  },
+  "around/ADP": {
+    "ADP_NUM": 1
+  },
+  "18the/CCONJ": {
+    "NOUN_ADJ": 1
+  },
+  "between/ADP": {
+    "NOUN_DET": 3,
+    "NOUN_PROPN": 1
+  },
+  "after/ADP": {
+    "ADV_DET": 1,
+    "VERB_DET": 1
+  },
+  "who/PRON": {
+    "PUNCT_AUX": 4,
+    "VERB_DET": 1
+  },
+  "no/DET": {
+    "VERB_NOUN": 3
+  },
+  "where/SCONJ": {
+    "ADP_PRON": 1,
+    "ADP_ADV": 1
+  },
+  "with/ADP": {
+    "PRON_DET": 1,
+    "CCONJ_DET": 1,
+    "NOUN_DET": 2,
+    "ADV_NOUN": 1,
+    "VERB_NOUN": 1,
+    "AUX_PRON": 2
+  },
+  "when/SCONJ": {
+    "NOUN_PRON": 1
+  },
+  "whether/SCONJ": {
+    "ADP_PRON": 1
+  },
+  "another/PRON": {
+    "VERB_PUNCT": 1
+  },
+  "since/SCONJ": {
+    "NOUN_NOUN": 1,
+    "PUNCT_DET": 1
+  },
+  "his/PRON": {
+    "ADP_NOUN": 1,
+    "ADP_ADJ": 1
+  },
+  "someone/PRON": {
+    "NOUN_PART": 1
+  },
+  "during/ADP": {
+    "NOUN_NOUN": 1
+  },
+  "each/DET": {
+    "ADP_NOUN": 1
+  },
+  "must/AUX": {
+    "PROPN_VERB": 1,
+    "PRON_AUX": 1,
+    "NOUN_VERB": 1
+  },
+  "these/PRON": {
+    "ADP_PUNCT": 1,
+    "ADP_AUX": 1
+  },
+  "has/AUX": {
+    "VERB_ADV": 1,
+    "PROPN_VERB": 1,
+    "NOUN_VERB": 1
+  },
+  "&/CCONJ": {
+    "PROPN_PROPN": 3
+  },
+  "may/AUX": {
+    "NOUN_VERB": 1
+  },
+  "over/ADP": {
+    "ADP_NUM": 1
+  },
+  "within/ADP": {
+    "PROPN_PRON": 1,
+    "NOUN_DET": 1
+  },
+  "positionswould/AUX": {
+    "NOUN_AUX": 1
+  },
+  "or/CCONJ": {
+    "PUNCT_AUX": 1
+  },
+  "from/ADP": {
+    "PRON_DET": 1,
+    "ADJ_DET": 1,
+    "NUM_PROPN": 1,
+    "NOUN_PROPN": 1
+  },
+  "ought/AUX": {
+    "ADJ_PART": 1
+  },
+  "until/ADP": {
+    "PROPN_DET": 1
+  },
+  "ro/ADP": {
+    "PUNCT_VERB": 1
+  },
+  "than/ADP": {
+    "ADJ_DET": 1
+  },
+  "pt/ADP": {
+    "PUNCT_DET": 1
+  },
+  "'s/AUX": {
+    "PRON_DET": 1
+  },
+  "n't/PART": {
+    "AUX_VERB": 1
+  }
+}
