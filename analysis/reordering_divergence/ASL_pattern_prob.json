@@ -1,0 +1,20 @@
+{
+    "GLOSS-GLOSS": {
+        "TotalCount": 913146,
+        "Monotone": 0.967645918615424,
+        "Inversion": 0.004335560797506642,
+        "Merge": 0.02801852058706932
+    },
+    "PRN-GLOSS": {
+        "TotalCount": 115,
+        "Monotone": 0.9565217391304348,
+        "Inversion": 0.0,
+        "Merge": 0.043478260869565216
+    },
+    "GLOSS-PRN": {
+        "TotalCount": 9,
+        "Monotone": 0.7777777777777778,
+        "Inversion": 0.1111111111111111,
+        "Merge": 0.1111111111111111
+    }
+}
