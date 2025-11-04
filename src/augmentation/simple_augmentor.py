@@ -21,8 +21,9 @@ GLOSS_PATH = os.path.join(DATA_DIR, 'gloss.tok.tagged')
 TEXT_PATH = os.path.join(DATA_DIR, 'text.tok.pos')
 
 # [출력]
-AUG_GLOSS_PATH = os.path.join(DATA_DIR, 'gloss.aug.noise')
-AUG_TEXT_PATH = os.path.join(DATA_DIR, 'text.aug.noise')
+AUG_DATA_DIR = os.path.join(PROJECT_ROOT, 'data', '03_augmented')
+AUG_GLOSS_PATH = os.path.join(AUG_DATA_DIR, 'gloss.aug.noise')
+AUG_TEXT_PATH = os.path.join(AUG_DATA_DIR, 'text.aug.noise')
 
 # --- 2. 하이퍼파라미터 (조정 가능) ---
 # [추가] 문장 당 증강 시도 횟수
@@ -89,33 +90,34 @@ def main():
         
     print(f"로드 완료: {len(gloss_lines)} 개의 병렬 문장")
 
-    augmented_count = 0
-    
     with open(AUG_GLOSS_PATH, 'w', encoding='utf-8') as f_gloss_out, \
          open(AUG_TEXT_PATH, 'w', encoding='utf-8') as f_text_out:
         
+        total_written_count = 0
         total_sentences = len(gloss_lines)
         for i, (gloss_line, text_line) in enumerate(zip(gloss_lines, text_lines)):
             
+            # 1. 원본 데이터 쌍을 먼저 저장
+            f_gloss_out.write(gloss_line + "\n")
+            f_text_out.write(text_line + "\n")
+            total_written_count += 1
+
             original_gloss_tokens = gloss_line.split()
             
-            # [수정] 각 문장마다 N번씩 증강 시도
+            # 2. 각 문장마다 N번씩 증강을 시도하고, 성공하면 추가로 저장
             for _ in range(N_AUGMENTATIONS_PER_SENTENCE):
                 noisy_gloss_tokens, was_modified = apply_noise(original_gloss_tokens)
                 
                 if was_modified:
-                    augmented_count += 1
                     f_gloss_out.write(" ".join(noisy_gloss_tokens) + "\n")
                     f_text_out.write(text_line + "\n")
+                    total_written_count += 1
                 
             if (i + 1) % 10000 == 0:
                 print(f"  ... {i+1} / {total_sentences} 원본 문장 처리 중")
 
     print("\n--- 단순 노이즈 증강 완료 ---")
-    print(f"총 {augmented_count} 개의 문장이 증강되었습니다.")
-    print(f"(목표: 약 {len(gloss_lines) * N_AUGMENTATIONS_PER_SENTENCE} 개)")
-    print(f"증강된 글로스: {AUG_GLOSS_PATH}")
-    print(f"증강된 텍스트: {AUG_TEXT_PATH}")
+    print(f"총 {total_written_count} 개의 문장이 최종 생성되었습니다.")
 
 if __name__ == "__main__":
     main()

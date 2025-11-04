@@ -28,8 +28,9 @@ ANALYSIS_DIR = os.path.join(PROJECT_ROOT, 'analysis', 'functional_divergence')
 PROB_MATRIX_PATH = os.path.join(ANALYSIS_DIR, 'P_insert_Source_matrix.json')
 
 # [출력]
-AUG_GLOSS_PATH = os.path.join(PROCESSED_DATA_DIR, 'gloss.aug.functional')
-AUG_TEXT_PATH = os.path.join(PROCESSED_DATA_DIR, 'text.aug.functional')
+AUG_DATA_DIR = os.path.join(PROJECT_ROOT, 'data', '03_augmented')
+AUG_GLOSS_PATH = os.path.join(AUG_DATA_DIR, 'gloss.aug.functional')
+AUG_TEXT_PATH = os.path.join(AUG_DATA_DIR, 'text.aug.functional')
 
 
 class FunctionalAugmentor:
@@ -116,7 +117,7 @@ def main():
 
     print(f"로드 완료: {len(gloss_lines)} 개의 병렬 문장")
 
-    augmented_count = 0
+    total_written_count = 0
     with open(AUG_GLOSS_PATH, 'w', encoding='utf-8') as f_gloss_out, \
          open(AUG_TEXT_PATH, 'w', encoding='utf-8') as f_text_out:
 
@@ -125,18 +126,24 @@ def main():
             gloss_line = gloss_lines[i]
             text_line = text_lines[i]
 
+            # 1. 원본 데이터 쌍을 먼저 저장
+            f_gloss_out.write(gloss_line + "\n")
+            f_text_out.write(text_line + "\n")
+            total_written_count += 1
+
+            # 2. 증강을 시도하고, 성공하면 추가로 저장
             augmented_gloss, was_modified = augmentor.augment_gloss_sentence(gloss_line.split())
 
             if was_modified:
-                augmented_count += 1
                 f_gloss_out.write(augmented_gloss + "\n")
-                f_text_out.write(text_line + "\n") # 영어는 원본 그대로 저장
+                f_text_out.write(text_line + "\n")
+                total_written_count += 1
 
             if (i + 1) % 10000 == 0:
                 print(f"  ... {i+1} / {total_sentences} 문장 처리 중")
 
     print("\n--- 기능어 기반 증강 완료 ---")
-    print(f"총 {augmented_count} 개의 문장이 증강되었습니다.")
+    print(f"총 {total_written_count} 개의 문장이 최종 생성되었습니다.")
     print(f"증강된 글로스: {AUG_GLOSS_PATH}")
     print(f"증강된 텍스트: {AUG_TEXT_PATH}")
 
