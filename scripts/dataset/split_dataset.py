@@ -6,52 +6,37 @@ from sklearn.model_selection import train_test_split
 각각의 csv 파일로 저장하는 코드
 '''
 
-# 랜드마크 경로가 포함된, 증강까지 완료된 전체 데이터셋 CSV
-# 이전에 'dataset_final.csv'로 저장함
-FULL_DATASET_CSV = './dataset_final.csv'
+# 1. 최종 CSV 파일 불러오기
+CSV_PATH = 'G:/내 드라이브/수어데이터_공용/metadata/dataset_final.csv'
+df = pd.read_csv(CSV_PATH)
 
-# 데이터를 나눌 비율
-TRAIN_SIZE = 0.8  # 학습용 80%
-VALIDATION_SIZE = 0.1 # 검증용 10%
-TEST_SIZE = 0.1 # 테스트용 10%
+# 2. 먼저 전체 데이터를 학습+검증용(90%)과 테스트용(10%)으로 분리
+train_val_df, test_df = train_test_split(
+    df,
+    test_size=0.1,         # 10%를 테스트용으로 사용
+    random_state=42,       # 재현 가능하도록 시드 고정
+    stratify=df['label']   # 'label' 열의 분포를 유지하며 분리
+)
 
-try:
-    # 1. 전체 데이터셋 불러오기
-    df = pd.read_csv(FULL_DATASET_CSV)
-    print(f"전체 데이터 개수: {len(df)}")
+# 3. 다음으로 학습+검증용 데이터를 다시 학습용(80%)과 검증용(10%)으로 분리
+# (원래 90% 중 1/9이 검증용이 되면 전체의 10%가 됨)
+train_df, val_df = train_test_split(
+    train_val_df,
+    test_size=1/9,         # 90% 중 11.11...% -> 전체의 10%
+    random_state=42,
+    stratify=train_val_df['label']
+)
 
-    # 2. 라벨(정답) 목록 추출
-    labels = df['label']
+# 4. 결과 확인
+print(f"총 데이터: {len(df)}개")
+print(f"학습 데이터: {len(train_df)}개")
+print(f"검증 데이터: {len(val_df)}개")
+print(f"테스트 데이터: {len(test_df)}개")
 
-    # 3. 학습용 데이터와 나머지(검증용+테스트용) 데이터로 1차 분할
-    # stratify=labels 옵션은 각 세트마다 단어(라벨)의 비율이 비슷하게 유지되도록 해줌 (매우 중요!)
-    train_df, temp_df = train_test_split(
-        df,
-        train_size=TRAIN_SIZE,
-        random_state=42, # 항상 동일한 결과로 섞이도록 시드 고정
-        stratify=labels
-    )
+# 5. 분리된 데이터프레임을 각각 CSV 파일로 저장
+METADATA_ROOT = 'G:/내 드라이브/수어데이터_공용/metadata'
+train_df.to_csv(f'{METADATA_ROOT}/train.csv', index=False)
+val_df.to_csv(f'{METADATA_ROOT}/validation.csv', index=False)
+test_df.to_csv(f'{METADATA_ROOT}/test.csv', index=False)
 
-    # 4. 나머지 데이터를 검증용과 테스트용으로 2차 분할
-    # 남은 데이터 중 절반(0.5)을 테스트용으로 할당 (전체 데이터의 10%에 해당)
-    validation_df, test_df = train_test_split(
-        temp_df,
-        test_size=TEST_SIZE / (VALIDATION_SIZE + TEST_SIZE),
-        random_state=42,
-        stratify=temp_df['label']
-    )
-    
-    # 5. 각 데이터셋을 별도의 CSV 파일로 저장
-    train_df.to_csv('train.csv', index=False, encoding='utf-8-sig')
-    validation_df.to_csv('validation.csv', index=False, encoding='utf-8-sig')
-    test_df.to_csv('test.csv', index=False, encoding='utf-8-sig')
-
-    print("\n데이터 분할 완료")
-    print(f"학습용 데이터: {len(train_df)}개 -> train.csv")
-    print(f"검증용 데이터: {len(validation_df)}개 -> validation.csv")
-    print(f"테스트용 데이터: {len(test_df)}개 -> test.csv")
-    
-except FileNotFoundError:
-    print(f"오류: '{FULL_DATASET_CSV}' 파일을 찾을 수 없습니다. 파일 이름을 확인해주세요.")
-except Exception as e:
-    print(f"오류가 발생했습니다: {e}")
+print("\n데이터셋 분할 및 저장이 완료되었습니다.")
